@@ -1,0 +1,1098 @@
+{
+	"name" : "CREATIVE_INDUSTRIES",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91058122269506, 49.20227236551345 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "The Art of Law Gallery",
+				"Address" : "711 Columbia Street",
+				"Descriptn" : "The Art of Law Gallery presents art works by local artists related to social, cultural, environment and human rights to advance social justice and collective consciousness.",
+				"id" : "51",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1B1",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The Art of Law Gallery exhibits visual arts dealing with social, cultural and environmental issues.",
+				"catname" : "Creative Industries",
+				"X" : "-122.91058122269506",
+				"Y" : "49.20227236551345"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91641885349533, 49.21712180924828 ]
+			},
+			"properties" : {
+				"email" : "edge@marneyroseedge.com",
+				"phone" : "778-875-0258",
+				"Name" : "Marney-Rose Edge Fine Art",
+				"Address" : "",
+				"Descriptn" : "I'm an artist and I bring beauty and inspiration to your life through the imagery of my paintings.  I share my knowledge through instruction, privately and in groups with workshops.  Art stimulates the mind, the economy and enriches our lives.  Let me start a conversation with you through my artistic endeavors. I paint in watercolor and acrylic on paper and canvas specializing in florals and pet portraits. The possibilities are endless when you incorporate art in your life.",
+				"id" : "54",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://www.marneyroseedge.com",
+				"social_networks" : "-1",
+				"summary" : "I'm an artist and I bring beauty and inspiration to your life through the imagery of my paintings.",
+				"catname" : "Creative Industries",
+				"X" : "-122.91641885349533",
+				"Y" : "49.21712180924828"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90865852902253, 49.20359601448708 ]
+			},
+			"properties" : {
+				"email" : "info@ammara.ca",
+				"phone" : "",
+				"Name" : "Ammara Dance Company",
+				"Address" : "40 Sixth Street",
+				"Descriptn" : "Dance and music are a great way to keep active while connecting with and learning about other cultures. Ammara Dance Co. is home to some of the finest instructors and performers in the Lower Mainland. Middle Eastern Dance is our specialty, including: Raks Sharqi (Belly Dance) Egyptian regional folkloric, American Tribal Style, and Turkish Romany. Other classes include Salsa, Caribbean Soca, Brazilian Capoeira, and even American Broadway-style Burlesque. If music is more your stye, check out a Caribbean Steel Drum class, or try one of our Middle Eastern or African Drum workshops. There are always new workshops happening and new classes being added - check our website for info. There is something here for everyone!",
+				"id" : "55",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2Z2",
+				"fax" : "",
+				"website" : "http://www.ammara.ca",
+				"social_networks" : "-1",
+				"summary" : "Ammara Dance Company offers classes and performances in a variety of ethnic dance and music, including Middle Eastern, Caribbean, Latin, Brazilian, African, Bulgarian and more.",
+				"catname" : "Creative Industries",
+				"X" : "-122.90865852902253",
+				"Y" : "49.20359601448708"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91020354382349, 49.20051598702946 ]
+			},
+			"properties" : {
+				"email" : "info@vancouverpaddlewwheeler.com",
+				"phone" : "604-525-4465",
+				"Name" : "Vancouver Paddlewheeler Riverboat Tours",
+				"Address" : "788 Quayside Drive",
+				"Descriptn" : "Welcome to Paddlewheeler Riverboat Tours. Celebrating 24 years providing top quality cruises on our authentic sternwheeler, exploring BC's Famous Fraser River. Based in the beautiful historic city of New Westminster, offering cruises ranging from full day to 2-1/2 hour discovery cruises watching the river at work & play; bridges from massive brand new to 110 years old & ever present wildlife. Relaxing evening sunset dinner cruises or exploring the natural wilderness of Pitt lake, one of the largest fresh water tidal lakes in the world. We specialize in weddings & all corporate & private functions. Easily accessible & open year round for special events, Christmas cruises & private functions.",
+				"id" : "62",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 6Z6",
+				"fax" : "604-525-5944",
+				"website" : "http://www.vancouverpaddlewheeler.com/",
+				"social_networks" : "-1",
+				"summary" : "Board the MV Native, an authentic paddlewheeler, for an adventure on the mighty Fraser River! With live narration of facts and fiction about the Fraser and its history, you'll encounter all the activity of a busy working river",
+				"catname" : "Creative Industries",
+				"X" : "-122.91020354382349",
+				"Y" : "49.20051598702946"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91162631795571, 49.200121639122656 ]
+			},
+			"properties" : {
+				"email" : "info@musicboxnw.ca",
+				"phone" : "604-553-1176",
+				"Name" : "Music Box Music and Theatre Academy",
+				"Address" : "211 810 Quayside Drive",
+				"Descriptn" : "Located in the River Market in Downtown New Westminster, Music Box offers out-of-the-box music and theatre classes to all ages and abilities. Music Box students can carve their own path and create music for fun and recreation, or more seriously with prep for exams and auditions. Our Private and Group lessons are taught by enthusiastic professionals with the hearts of teachers; committed to sharing the joy of making, playing and creating music and theatre. Adding music to people's lives is awesome.",
+				"id" : "79",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 6C9",
+				"fax" : "",
+				"website" : "http://www.musicboxnw.ca",
+				"social_networks" : "-1",
+				"summary" : "Located in the River Market in Downtown New Westminster, Music Box offers out-of-the-box music and theatre classes",
+				"catname" : "Creative Industries",
+				"X" : "-122.91162631795571",
+				"Y" : "49.200121639122656"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90785920523254, 49.21276832878192 ]
+			},
+			"properties" : {
+				"email" : "lynn@vivalogue.com",
+				"phone" : "604-522-6222",
+				"Name" : "Vivalogue",
+				"Address" : "",
+				"Descriptn" : "Vivalogue provides comprehensive publishing services, with print runs from just one copy to 1000s including  design, editing, proof-reading and printing. Self-publishing packages for authors. Commercial publishing packages for organizations. One-off or short run books for gifts or private distribution",
+				"id" : "82",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://www.vivalogue.com",
+				"social_networks" : "-1",
+				"summary" : "Comprehensive print and online publishing services for individuals, businesses and non-profit organizations: editing, book design, proof-reading, printing; book publishing, marketing, promotion, distribution; press releases, newsletters and corporate identity.",
+				"catname" : "Creative Industries",
+				"X" : "-122.90785920523254",
+				"Y" : "49.21276832878192"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91307529319673, 49.20212644243165 ]
+			},
+			"properties" : {
+				"email" : "info@styluscollege.com",
+				"phone" : "604-523-2969",
+				"Name" : "Stylus College of Music and Sound Technology",
+				"Address" : "60 Eighth Street",
+				"Descriptn" : "From the creative to the technical science, our dedication to Music Production and Sound Design has led Stylus College to become one of Canada's leading music education centers.  Our facilities offer hands-on access to well-equipped studios with state of the art software and hardware.  Combined with industry professionals as instructors, and our affiliations to other industry entities and organizations, Stylus College of Music & Sound Technology will thoroughly prepare our students for the challenges they will encounter in the Music and Visual Media industries.",
+				"id" : "83",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 3P1",
+				"fax" : "",
+				"website" : "http://www.styluscollege.com",
+				"social_networks" : "-1",
+				"summary" : "Our college is a creative community where staff and students share a common passion: Media Production. We are committed to the delivery of high-quality programs in Music Production, Sound Design and the Business of Music and Visual Media industries.",
+				"catname" : "Creative Industries",
+				"X" : "-122.91307529319673",
+				"Y" : "49.20212644243165"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89313322429352, 49.23097781419977 ]
+			},
+			"properties" : {
+				"email" : "jess@kidsinmotiondance.com",
+				"phone" : "778-554-1146",
+				"Name" : "Kids In Motion: Creative Arts Studio",
+				"Address" : "465B East Columbia Street",
+				"Descriptn" : "Kids in Motion offers high quality dance training, in a non-traditional dance studio setting. We are focused on enriching our student's lives through dance, music and play. Our mission is to stimulate the imaginations of our students and engage them in physical activity, laying the foundation for a healthy lifestyle. We firmly believe that dancing and the creative arts can foster confidence, social skills and a joyful childhood and adolescents. There are a variety of classes offered for toddlers, children, teens and adults in the morning, evening and on weekends. There is something for everyone!",
+				"id" : "84",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 3X6",
+				"fax" : "",
+				"website" : "http://www.kidsinmotiondance.com",
+				"social_networks" : "-1",
+				"summary" : "Kids in Motion offers high quality dance training, in a non-traditional dance studio setting. There are a variety of classes offered for toddlers, children, teens and adults in the morning, evening and on weekends. We firmly believe that dancing can foster confidence, social skills and a joyful childhood and adolescents.",
+				"catname" : "Creative Industries",
+				"X" : "-122.89313322429352",
+				"Y" : "49.23097781419977"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91366889971577, 49.204706655852696 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Melodies in Mind Productions",
+				"Address" : "",
+				"Descriptn" : "You can find represented artists at www.melodiesinmindproductions.com and contact the owner at melodiesinmind@gmail.com, Melodies in Mind is a radio show that promotes local musicians and the business sprang from that.",
+				"id" : "86",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The business represents musicians and provides booking and promotion services for events and venues. The owner is a poet and a radio dj, and so his additional skills may also be used. For the musician the business offers media creation, consultations, and possibly representation.",
+				"catname" : "Creative Industries",
+				"X" : "-122.91366889971577",
+				"Y" : "49.204706655852696"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91366889971577, 49.204706655852696 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Ryan Fletcher",
+				"Address" : "",
+				"Descriptn" : "you can peruse the material at http://www.unconformed.com, references can be made available upon request. Can also write to spec for some creative writing projects that may need assistance.",
+				"id" : "87",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "I write and perform short stories and poems. Have also produced a poetry cd and am in the process of creating an illustrated book of poems. Have a lot of stage experience, talent, and an excellent sense of humor. Can also be hired as an emcee. Have emceed regular events.",
+				"catname" : "Creative Industries",
+				"X" : "-122.91366889971577",
+				"Y" : "49.204706655852696"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89593828565697, 49.21780306325445 ]
+			},
+			"properties" : {
+				"email" : "mail@jgfreedman.com",
+				"phone" : "604-777-9667",
+				"Name" : "JG Freedman Fine Art",
+				"Address" : "",
+				"Descriptn" : "After moving to Vancouver from Los Angeles in 1970 to avoid Vietnam, Joseph Gregory Freedman found work on B.C.'s tugboats. Inspired by the spectacular nature of the Pacific coast, he also began to paint. While he had his first one-man show in 1972, his art would be a great love but a secondary pursuit for the next 31 years. At the age of 51, after retiring from Vancouver's SeaBus as a distinguished captain, painting became his second, full-time career. The realization of a life's dream, it was still a challenging decision. We had a beautiful heritage home in North Vancouver, and we were house-proud. Retiring early meant giving that up, but Marilyn (my wife) said, \"forget the house and paint\". So I did. His second one-man show, in 2002, was celebrated nationally, receiving accolades from CBC, The Arts Report and a feature article in NUVO magazine; his paintings since have found their way to buyers throughout North America. Humour lurks beneath the darker themes of Freedman's fascinating canvases. The Georgia Straight Really accessible work . . .  the kind of art you feel relaxed with. Susan Westmorland, The Arts Report, CBC Radio 1 The West Coast's answer to [Canada's foremost magic realist painter] Alex Colville. Vancouver Sun columnist, Denny Boyd Freedman doesn't follow fashion, he doesn't copy anybody.  That's very special in Canadian art today. Canadian artist and educator, Gordon Smith. Freedman is represented in Vancouver by Granville Fine Art   www.granvillefineart.com",
+				"id" : "91",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "JG (Greg) Freedman is an internationally known, award winning oil painter who has had many gallery and museum showings of his realist and magic realist paintings.",
+				"catname" : "Creative Industries",
+				"X" : "-122.89593828565697",
+				"Y" : "49.21780306325445"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91511257889482, 49.21777301429249 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-521-5871",
+				"Name" : "Razzberry Art and Design",
+				"Address" : "625 Second Street",
+				"Descriptn" : "Look for Jill's collaborative murals with children at Sapperton Landing Park where you will find colourful mosaic tiles celebrating the theme \"Fish in the City\" and on the exteriors of several of our city's schools where vibrant painted panels enliven our school environments. Jill has worked with hundreds of schoolchildren on projects that promote civic literacy - an understanding of the many influences that have shaped our community. Her interest in history and heritage led her to write and illustrate \"My New Westminster: A Neighbourhood History\". This hands-on civic literacy resource for children, now in its second printing, was published by the City of New Westminster and in use in elementary classrooms throughout the city. As a visual arts educator, Jill's core belief in working with children and adults is in the value of expressing personal and cultural identity through art. To that end, in addition to pursuing her own aims as a painter, she is dedicated to promoting public art that is created BY the community FOR the community.",
+				"id" : "94",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2M6",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Jill Doyle is an visual artist, educator, and author who has lived and worked in New Westminster for over 25 years. Her contributions to the city's cultural landscape include numerous public art projects involving children's artwork and the publication of \"My New Westminster\", a local history resource for elementary students.",
+				"catname" : "Creative Industries",
+				"X" : "-122.91511257889482",
+				"Y" : "49.21777301429249"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91162631795571, 49.200121639122656 ]
+			},
+			"properties" : {
+				"email" : "info@VancouverCircusSchool.ca",
+				"phone" : "604-544-5024",
+				"Name" : "Vancouver Circus School",
+				"Address" : "810 Quayside Drive",
+				"Descriptn" : "The Vancouver Circus School offers non-competitive classes in all aspects of circus arts including aerial silks, trampoline, props, clowning, swinging trapeze, acrobalance and more!  Founded by long-term residents of New Westminster, Aaron & Travis Johnson, the school offers a unique blend of training and performance opportunities.  Visitors to the New Westminster facility can observe dynamic classes in progress, or take in one of several annual free performances.",
+				"id" : "96",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M6B9",
+				"fax" : "",
+				"website" : "http://www.VancouverCircusSchool.ca",
+				"social_networks" : "-1",
+				"summary" : "The Vancouver Circus School offers non-competitive classes in all aspects of circus arts including aerial silks, trampoline, props, clowning, swinging trapeze, acrobalance and more!",
+				"catname" : "Creative Industries",
+				"X" : "-122.91162631795571",
+				"Y" : "49.200121639122656"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91375004847922, 49.20252049268839 ]
+			},
+			"properties" : {
+				"email" : "thedancematrix@gmail.com",
+				"phone" : "778-397-0934",
+				"Name" : "The Dance Matrix",
+				"Address" : "802 Agnes Street",
+				"Descriptn" : "At The Dance Matrix we believe that any child that wants to dance can dance. We are a family owned and operated dance studio located in New Westminster, BC. We offer classes in tap, jazz, ballet, hip hop, breakdance, stage/theatre, acrobatics and much more for children ages 3 to 18. We offer both recreational and performance group programs. With small class sizes and qualified instructors your child will grow and blossom under our programs.",
+				"id" : "97",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 5T8",
+				"fax" : "",
+				"website" : "http://thedancematrix.webs.com",
+				"social_networks" : "-1",
+				"summary" : "At The Dance Matrix we encourage children of all ages to participate and enjoy the performing arts. Our students are encouraged to share their talent at local community events whenever we get the chance to do so.",
+				"catname" : "Creative Industries",
+				"X" : "-122.91375004847922",
+				"Y" : "49.20252049268839"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89603358432113, 49.22821216989066 ]
+			},
+			"properties" : {
+				"email" : "jmclaugh1@shaw.ca",
+				"phone" : "604-218-2118",
+				"Name" : "Freeflow Scenics Studio",
+				"Address" : "",
+				"Descriptn" : "Visual Artist for over 60 years, with works in Oil, watercolor and acrylic.  Exhibitions in Austrailia, New Zealand and Canada.  Portraits in oil, watercolor.  Animation Caricatures in pen and ink.\\nLife painting and figure portraits in oil and watercolour.\\nMusician - Drummer - JAZZ - also Rock, Swing, R & B.  Has worked with such greats as Stan Kenton, Lenny Breau, and many more.  Groups as Drummer and vocals, The Rockers (1955 - 58), The New Melbourne Jazz Band - 1970, Phoenix Jazzers - (1980- 1996)\\nScenic Artist - Film Industry - Iatse,  (1992 - 2013) Backdrops, Murals, Large Sets and Scenic's.",
+				"id" : "98",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://www.freeflowscenic.com",
+				"social_networks" : "-1",
+				"summary" : "Visual Artist - Oil, watercolour and acrylic. Illustrator - sketch, pen.  Animation for film.  Musician - Jazz Drummer - worked with Stan Kenton, Lenny Breau & many more. Bands The Rockers (1955 - 58), The New Melbourne Jazz - 1970, Phoenix Jazzers (1980 - 1996). Scenic Artist - Film Industry- Iatse, last 17 years.",
+				"catname" : "Creative Industries",
+				"X" : "-122.89603358432113",
+				"Y" : "49.22821216989066"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89603358432113, 49.22821216989066 ]
+			},
+			"properties" : {
+				"email" : "jmclaugh1@shaw.ca",
+				"phone" : "604-218-2888",
+				"Name" : "Freeflow Scenics Studio",
+				"Address" : "",
+				"Descriptn" : "Visual Artist - Exhibited in Australia, New Zealand, U.S.A. and Canada.  Portraits in Watercolour, Oil and Sketch.\\r\\nMusician - Jazz Drummer - played and associated with Stan Kenton, Roy Reynolds, jammed with Lenny Breau and many more.  Member of the groups - \"The Rockers\" - (1955- 58), The New Melbourne Jazz Band - 1967 - 1969, The Phoenix Jazzers - (1981 - 1999).\\r\\nGraphic Artist, Illustration, - Art Craft Advertising, (1978 - 1987)\\r\\nScenic Artist - Film Industry- Iatse - Set illustration, Backdrops, Scenic Sets, Portraits for Set Props. -(1987-2013)",
+				"id" : "99",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Visual Artist - Oil, Watercolor, Acrylic.  Portraits, Life and Figure.\\r\\nMusician - Drummer - JAZZ, Rock, R & B, Swing.\\r\\nScenic Set Artist - Iatse - Film Industry.",
+				"catname" : "Creative Industries",
+				"X" : "-122.89603358432113",
+				"Y" : "49.22821216989066"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92109361214638, 49.19899662275711 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Margo Prentice, Golden Age Theatre, Artistic Director",
+				"Address" : "",
+				"Descriptn" : "We have been performing shows in New Westminster for over 12 years. We have large enthusiastic audiences. Our cast and crew are all Seniors who share a love of theatre. New members are welcome.",
+				"id" : "101",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Artistic director of the Golden Age Theatre, a drama group for Seniors. Performances for all age audiences.",
+				"catname" : "Creative Industries",
+				"X" : "-122.92109361214638",
+				"Y" : "49.19899662275711"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95114503093141, 49.202826792827935 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-523-9757",
+				"Name" : "Richard Newman",
+				"Address" : "",
+				"Descriptn" : "Richard Newman is an actor, singer, guitarist and director. His credits over the last 45 years include stage (theatrical endeavors and musical ensembles), screen (film and tv roles, tv host) and studio work (cartoon voices, commercials, documentaries). His production company, Rickdickulous Enterprises has produced several theatrical and musical projects in recent years across the lower mainland.",
+				"id" : "106",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "604-523-9758",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Richard Newman is an actor, singer, guitarist and director.",
+				"catname" : "Creative Industries",
+				"X" : "-122.95114503093141",
+				"Y" : "49.202826792827935"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91307529319673, 49.20212644243165 ]
+			},
+			"properties" : {
+				"email" : "info@styluscollege.com",
+				"phone" : "604-523-2969",
+				"Name" : "Stylus College of Music and Sound Technology",
+				"Address" : "60 Eighth Street Second Floor",
+				"Descriptn" : "Stylus College of Music & Sound Technology offers modern, professional training in music production, composition, and sound design for all media, plus more. We offer audio for collaboration with local artists, media and post-production studios, and other educational institutions via our current students, graduates, and internships.",
+				"id" : "118",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 3P1",
+				"fax" : "",
+				"website" : "http://www.styluscollege.com",
+				"social_networks" : "-1",
+				"summary" : "Stylus College of Music & Sound Technology offers modern, professional training in music production, composition, and sound design for all media, plus more. Check us out at www.styluscollege.com",
+				"catname" : "Creative Industries",
+				"X" : "-122.91307529319673",
+				"Y" : "49.20212644243165"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91162631795571, 49.200121639122656 ]
+			},
+			"properties" : {
+				"email" : "artisans@rivermarket.ca",
+				"phone" : "604-520-3881",
+				"Name" : "Artisans at River Market",
+				"Address" : "810 Quayside Drive",
+				"Descriptn" : "River Market launched the Artisans Shop to make shopping for locally made gifts easy and delightful. It is a  retail studio for artists, designers, and crafters to work, sell, and teach their crafts. Our goal is to create a place where artisans can share and showcase their craft and build their independent craft businesses.",
+				"id" : "121",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 6B9",
+				"fax" : "",
+				"website" : "http://rivermarket.ca/community/artisans/",
+				"social_networks" : "-1",
+				"summary" : "River Market launched the Artisans Shop to make shopping for locally made gifts easy and delightful.",
+				"catname" : "Creative Industries",
+				"X" : "-122.91162631795571",
+				"Y" : "49.200121639122656"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9114258272025, 49.20309443296223 ]
+			},
+			"properties" : {
+				"email" : "info@dancewithmenewwest.com",
+				"phone" : "604-521-2772",
+				"Name" : "Dance With Me Studio",
+				"Address" : "230 50 Lorne Street",
+				"Descriptn" : "We offer health and fitness programs for all ages, Zumba Fitness for kids, Gold Zumba for those just returning to fitness, or have been out of fitness for awhile. Students who wish to compete in Ballroom Dancing or those who wish to Social Dance. We also offer dance programs specifically designed for wedding couples and their wedding parties. Our goal is focused on individual success in any program.",
+				"id" : "128",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 6G3",
+				"fax" : "",
+				"website" : "http://www.dancewithmenewwest.com",
+				"social_networks" : "-1",
+				"summary" : "Promoting and providing health and wellness classes through education and classes in all forms of dance and fitness. Ballroom Dancing, Zumba, Group Fitness, Egyptian Bellydance, Line Dancing, Hoola Hoop, Walking and Running Programs for Beginners, Yoga",
+				"catname" : "Creative Industries",
+				"X" : "-122.9114258272025",
+				"Y" : "49.20309443296223"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90873441072263, 49.213063619183224 ]
+			},
+			"properties" : {
+				"email" : "homecomingdancer@gmail.com",
+				"phone" : "",
+				"Name" : "Ecstatic Dance New West",
+				"Address" : "",
+				"Descriptn" : "Ecstatic Dance New West is part of the growing international conscious dance movement that returns dance to its roots and human beings to their bodies ... and to the dance floor! No dance experience is necessary. At its most basic, it's free-form movement inspired by the music. We allow our bodies to move freely without judgment or concern for what it looks like. That exhortation to dance like nobody's watching ... this is the place to do it! Sometimes it's called moving meditation. Like meditation and yoga, this type of dance strengthens the mind-body-spirit connection. It's a perfect space in which to try new things and push the envelope, as there's no structure or formal facilitation. If dancers wish to interact, then the process can be very social, the music inspiring an almost tribal feel to the connection that develops. But every dancer is there to do his or her own practice, and that individual intention is respected at all times by the other dancers. Events coming to New West in 2014. For more information or to be added to our mailing list, please email homecomingdancer@gmail.com",
+				"id" : "145",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Ecstatic Dance New West is a weekly gathering of likeminded, happily mobile folks for freestyle, unfacilitated conscious dance. No alcohol, no shoes, no chit-chat on the dance floor. Just amazing beats, you, and your new friends. Coming to New West BC in 2014!",
+				"catname" : "Creative Industries",
+				"X" : "-122.90873441072263",
+				"Y" : "49.213063619183224"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90981003178224, 49.210988801776814 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Crake House",
+				"Address" : "230 Third Avenue",
+				"Descriptn" : "Located mid-block on the south side of Third Avenue in New Westminster, the Crake House is a large-scale wood-framed house with verandah. Constructed ca. 1907, the Crake House, the second house to occupy this lot, is valued as large-scale expression of the Edwardian Vernacular style, a style very popular and used widely in the Queen’s Park neighbourhood during this period of its history. The house has architectural value as an excellent example of an Edwardian Vernacular-style house, particularly for its hipped roof form, which is reflected in the roof over the verandah, the wood shingle siding, and the covered verandah that runs the full width of the house. Equally important is the extent of original design elements and material that have been maintained through the years. The house is also valued for its association with Josephine Slater, a well-known local dancer, dance teacher and actress, who was active in the Royal City Players, and for the Lynden Dance School, which Miss Slater operated out of the house for a number of years.",
+				"id" : "157",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1L9",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Constructed ca. 1907, the Crake House, the second house to occupy this lot, is valued as large-scale expression of the Edwardian Vernacular style, a style very popular and used widely in the Queen's Park neighbourhood during this period of its history.",
+				"catname" : "Creative Industries",
+				"X" : "-122.90981003178224",
+				"Y" : "49.210988801776814"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89618389552979, 49.21479520238747 ]
+			},
+			"properties" : {
+				"email" : "information@senseofhistory.com",
+				"phone" : "604-526-6113",
+				"Name" : "A Sense of History Research Services Inc",
+				"Address" : "1405 69 Jamieson Court",
+				"Descriptn" : "Dale and Archie Miller began A Sense of History Research Services Inc. in 1998. Its formation combined the talents of two people with recognized skills in research and presentations, many in the field of history and heritage. A Sense of History is widely recognized for detailed, accurate and comprehensive historical research in a variety of areas ranging from family studies and burial records, to fire insurance plans and business development. It has written, designed and published several history books including those on Fraser River Pile Driving, the Westminster Club, and New Westminster's Great Fire of 1898, and several others have been commissioned. Another area of speciality is walking and cemetery tours. The stories you'll hear on these tours include fascinating detail and background information all delivered by excellent storytellers. Presentations, with or without accompanying visuals, are always so intriguing and entertaining you'll hardly notice that you're learning history in the process.  Archie and Dale's backgrounds include many years of detailed study and wide ranging experience. Archie was the City Curator for more than 25 years and grew up in New Westminster. Archie and Dale both excel and enjoy what they do as they bring life to history, and history to life.",
+				"id" : "186",
+				"category" : 1,
+				"company" : "",
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 5R3",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Dale and Archie Miller, principals of A Sense of History Research Services Inc., provide historical research, writing, editing, publishing, presentations, walking tours, cemetery studies and tours, genealogy, and photography. They specialize in the Lower Mainland of BC, but have resources across Canada.",
+				"catname" : "Creative Industries",
+				"X" : "-122.89618389552979",
+				"Y" : "49.21479520238747"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89880301920881, 49.23107737031801 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-521-7887",
+				"Name" : "Van Dop Gallery",
+				"Address" : "421 Richmond Street",
+				"Descriptn" : "The Van Dop Gallery \"Art & Living Canada's\" premiere home gallery, exemplifying the union of art and living. Founded by Trudy Van Dop in 1996, the gallery is a one-of-a-kind experience showcasing over 80 artists in a unique contemporary home and garden setting. Visitors feel at home as they explore Van Dop's lush gardens and myriad of artworks in every room. The goal of this unique gallery concept is to transform art into an intimate experience, allowing guests to discover how art can become an integral part of everyday life. The Gallery specializes in artworks from Canadian contemporary fine artists in all media: glass, wood, metal, ceramic, fibre, oils, acrylics and other media. Private viewings are available to view the collection - please call ahead.",
+				"id" : "255",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 4C4",
+				"fax" : "",
+				"website" : "http://www.vandopgallery.com",
+				"social_networks" : "-1",
+				"summary" : "Please call for a private viewing. The Van Dop Gallery, showcases over 80 Canadian Contemporary artists. Offering Art Consulting services for Home and Office.",
+				"catname" : "Creative Industries",
+				"X" : "-122.89880301920881",
+				"Y" : "49.23107737031801"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95654303335947, 49.20087589200565 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-395-2585",
+				"Name" : "The Shakespeare Playground",
+				"Address" : "",
+				"Descriptn" : "Please visit www.shakespeareplayground.com for more information.",
+				"id" : "258",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://www.shakespeareplayground.com",
+				"social_networks" : "-1",
+				"summary" : "The Shakespeare Playground has developed diverse Shakespeare-based literary/performance programs, productions, and 'playshops' for students from kindergarten through college for over two decades on both coasts of North America. It was dubbed the \"hottest\" summer theatre workshop for kids by The New York Post in 2000.",
+				"catname" : "Creative Industries",
+				"X" : "-122.95654303335947",
+				"Y" : "49.20087589200565"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90865927112674, 49.20587182534647 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-522-5356",
+				"Name" : "Paper2Play",
+				"Address" : "204 423 Agnes Street",
+				"Descriptn" : "",
+				"id" : "262",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1G2",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "We specialize in unique craft supplies for creative projects",
+				"catname" : "Creative Industries",
+				"X" : "-122.90865927112674",
+				"Y" : "49.20587182534647"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91416047486392, 49.20779204228319 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-522-5356",
+				"Name" : "Minuteman Press",
+				"Address" : "218 Sixth Street",
+				"Descriptn" : "",
+				"id" : "263",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1G2",
+				"fax" : "",
+				"website" : "http://www.new-westminster10.minutemanpress.ca",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Creative Industries",
+				"X" : "-122.91416047486392",
+				"Y" : "49.20779204228319"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90968237666101, 49.202632073689664 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Paper Poet",
+				"Address" : "665 Columbia Street",
+				"Descriptn" : "",
+				"id" : "264",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1A8",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Specialty papers, envelopes and printing.",
+				"catname" : "Creative Industries",
+				"X" : "-122.90968237666101",
+				"Y" : "49.202632073689664"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90867135831249, 49.20233668259184 ]
+			},
+			"properties" : {
+				"email" : "info@film2frame.com",
+				"phone" : "604-355-7173",
+				"Name" : "Film2Frame Studio Gallery",
+				"Address" : "655 Front Street",
+				"Descriptn" : "",
+				"id" : "265",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1A2",
+				"fax" : "",
+				"website" : "http://film2frame.com",
+				"social_networks" : "-1",
+				"summary" : "We are an exciting photography facility offering studio, darkroom and gallery rentals located in the beautiful and historic City of New Westminster. No matter what level of photography you may be at, we guarantee you will enjoy our facility.",
+				"catname" : "Creative Industries",
+				"X" : "-122.90867135831249",
+				"Y" : "49.20233668259184"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93208085264828, 49.208429142565386 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "778- 397-0888",
+				"Name" : "Fringe Fashions",
+				"Address" : "632 Twelfth Street",
+				"Descriptn" : "",
+				"id" : "266",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 4J4",
+				"fax" : "",
+				"website" : "http://fringefashions@shaw.ca",
+				"social_networks" : "-1",
+				"summary" : "Latest styles of women's fashion and accessories plus sizes, belly dancing attire, beaded curtains,and fine textiles.",
+				"catname" : "Creative Industries",
+				"X" : "-122.93208085264828",
+				"Y" : "49.208429142565386"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93419053766513, 49.21008246569543 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Gabor Gasztonyi Studio & Gallery",
+				"Address" : "",
+				"Descriptn" : "Gabor Gasztonyi is a local award winning photographer and author.  His photographic  book, A Room in the City, was a finalist for the George Ryga award for social justice in literature.  Gabor Gasztonyi studio while being a photographic studio is also an established art gallery in New Westminster displaying the work of artists and photographers as curated by Gabor Gasztonyi.  The work of studio manager and resident artist Judith Copland is also featured in the gallery.  Gabor Gasztonyi Studio is also a fully equipped picture framing studio.  We also do complete photo restoration and art photography.",
+				"id" : "280",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://www.gaborphotography.com",
+				"social_networks" : "-1",
+				"summary" : "Gabor Gasztonyi Studio & Gallery is a full service photographic studio and art gallery located on 12th Street in New Westminster.  We are in an art deco building circa 1920.  We feature the photographic art of master award winning photographer Gabor Gasztonyi MPA(Master of Photographic Arts) and paintings by Judith Copland.",
+				"catname" : "Creative Industries",
+				"X" : "-122.93419053766513",
+				"Y" : "49.21008246569543"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91295600896646, 49.20314940523353 ]
+			},
+			"properties" : {
+				"email" : "event@douglascollege.ca",
+				"phone" : "604-527-5293",
+				"Name" : "EVENT Magazine",
+				"Address" : "700 Royal Avenue",
+				"Descriptn" : "EVENT Magazine has been supported by Douglas College for most of its career, since 1970.  In addition to showcasing excellent poetry, fiction and reviews, EVENT is home to one of Canada's premiere annual creative non-fiction contests. It also offers a Reader's Service for writers.  EVENT is publishes three issues per year.",
+				"id" : "314",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 5B2",
+				"fax" : "",
+				"website" : "http://eventmags.com/",
+				"social_networks" : "-1",
+				"summary" : "EVENT Magazine is one of Canada's best-known and most enduring literary magazines.  Since 1970, EVENT has published the best of emerging and established writers.",
+				"catname" : "Creative Industries",
+				"X" : "-122.91295600896646",
+				"Y" : "49.20314940523353"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92310644032011, 49.21477242953398 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Silver Bow Publishing",
+				"Address" : "Box 5 720 Sixth Street",
+				"Descriptn" : "We are a Canadian Publishing Company established in 1987. We are currently accepting poetry and manuscripts. Please check submission guidelines on our website http://silverbowpublishing.shawwebspace.ca/ Mission: We strive to publish the best new writers and poets in both anthology and book form. Company Overview: Canadian Publishing Company ( poetry, novels, novellas, anthologies, short stories). We accept poetry and manuscripts from the international community. Query first before submitting. General information: Please visit our website for submission guidelines. Note guidelines for Anthology are different than guidelines for Books.",
+				"id" : "318",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 3C5",
+				"fax" : "",
+				"website" : "http://silverbowpublishing.shawwebspace.ca/",
+				"social_networks" : "-1",
+				"summary" : "We are a Canadian Publishing Company established in 1987. We are currently accepting poetry and manuscripts. Please check submission guidelines on our website http://silverbowpublishing.shawwebspace.ca/",
+				"catname" : "Creative Industries",
+				"X" : "-122.92310644032011",
+				"Y" : "49.21477242953398"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90306361530537, 49.21409666748385 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Vagabond Players",
+				"Address" : "Bernie Legge Theatre",
+				"Descriptn" : "The Vagabond Players Theatre Society is an integral part of New Westminster's history.  The society was formed in 1937 with a series of one-act plays staged at St. Aidan's Church.  The Vagabonds move to Queens Park occurred in 1950 when the City of New Westminster furnished the society with the fisheries building that became its current home.  In January 1951, the first production, Strange Bedfellows, was staged. Since then, Vagabond Players have continued to produce four or five-play seasons with a wonderful variety of shows.  Many well-known performers have trod the boards, including Dolores Kirkwood, Bruno Gerussi, Mildred Franklin, Ed Harrington and Raymond Burr.  Many improvements have been made over the years.  The stage was added in 1955.  The club built on a lobby, green room and dressing rooms, bought the theatre seats, and created and equipped the booth.  Everything that turned the fisheries facility into a theatre was built through the Vagabond Players, often with the help of loans from the City.  In 1997 the playhouse was renamed THE BERNIE LEGGE THEATRE in honour of Bernie Legge, one of Vagabond's most venerated actors.  Since then, many more improvements have taken place, including new washrooms, better seats, and a fully developed basement with costume room, storage and scene-shop.  A huge number of volunteer hours have gone into all this work, and it is the support of these volunteers that enables this wonderful theatre organization to continue providing great, affordable live theatre to the citizens of New Westminster.",
+				"id" : "56",
+				"category" : 1,
+				"company" : null,
+				"address2" : "Queens Park",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1L7",
+				"fax" : "",
+				"website" : "http://www.vagabondplayers.ca/index.htm",
+				"social_networks" : "-1",
+				"summary" : "Vagabond Players is the oldest community theatre in B.C. and provides a 5-play season each year from September to June.  The company provides a wonderful showcase for actors, directors, playwrights, lighting technicians, sound and set designers, set builders and decorators.  We welcome new members and are happy to train newcomers.",
+				"catname" : "Creative Industries",
+				"X" : "-122.90306361530537",
+				"Y" : "49.21409666748385"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9080975095533, 49.202412661396764 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "778-773-3804",
+				"Name" : "The Fat Paint Company",
+				"Address" : "623 Front Street",
+				"Descriptn" : "",
+				"id" : "299",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1A1",
+				"fax" : "",
+				"website" : "http://www.fatpaint.ca",
+				"social_networks" : "-1",
+				"summary" : "The Fat Paint Company sells artisan quality chalk paint.",
+				"catname" : "Creative Industries",
+				"X" : "-122.9080975095533",
+				"Y" : "49.202412661396764"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9100848326887, 49.21725033911275 ]
+			},
+			"properties" : {
+				"email" : "info@shadowsanddreams.org",
+				"phone" : "",
+				"Name" : "Shadows & Dreams Theatre Company",
+				"Address" : "",
+				"Descriptn" : "Shadows and Dreams Theatre Company is based in New Westminster, British Columbia. Our primary interest is to produce engaging, entertaining and fun theatre. The company was formed from the simple desire to re-connect with our theatre roots and allow us to work and play on the stage together. We hope that through fulfilling ourselves as artists, we can extend this enjoyment to our audience and allow them to re-discover old classics or be exposed to new works. 2013 was Shadows & Dreams seventh year of producing shows. And while the cast may vary from year to year the commitment, fun and family atmosphere stays decidedly the same.  Shadows & Dreams has gone on to produce a variety of contemporary works, some of the Bard's dramatic fare, as well as our yearly comedic romp in Queen's Park.",
+				"id" : "78",
+				"category" : 1,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://www.shadowsanddreams.org",
+				"social_networks" : "-1",
+				"summary" : "Shadows and Dreams Theatre Company is based in New Westminster, British Columbia. Our primary interest is to produce engaging, entertaining and fun theatre.",
+				"catname" : "Creative Industries",
+				"X" : "-122.9100848326887",
+				"Y" : "49.21725033911275"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90705745272632, 49.20491726828362 ]
+			},
+			"properties" : {
+				"email" : "info@citystagenewwest.org",
+				"phone" : "",
+				"Name" : "City Stage New West",
+				"Address" : "Holy Trinity Cathedral",
+				"Descriptn" : "Please see www.citystagenewwest.org",
+				"id" : "256",
+				"category" : 1,
+				"company" : null,
+				"address2" : "514 Carnarvon Street",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1C4",
+				"fax" : "",
+				"website" : "http://www.citystagenewwest.org",
+				"social_networks" : "-1",
+				"summary" : "City Stage New West's mission is to produce professional theatre in New Westminster that entertains, educates, and enlightens while strengthening respect for Canadian diversity.",
+				"catname" : "Creative Industries",
+				"X" : "-122.90705745272632",
+				"Y" : "49.20491726828362"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90798046947546, 49.217545195938655 ]
+			},
+			"properties" : {
+				"email" : "info@artscouncilnewwest.org",
+				"phone" : "604-525-3244",
+				"Name" : "Arts Council of New Westminster",
+				"Address" : "Queens Park",
+				"Descriptn" : "The Arts Council of New Westminster supports the arts in New Westminster by promoting cultural education, encouraging artistic exploration, and infusing creative spirit. We endorse the core values of the City and BC Arts Council and use these to guide our own planning. At yearly reviews we ensure that we continue to meet the needs of the community and exceed the expectations of our patrons. Our Mission Statement captures our role as a vibrant presence in the community. To foster, support and promote the arts and culture in New Westminster.  To act as an information and resource center for artistic and cultural projects. To facilitate arts and cultural events in New Westminster. To provide advocacy and representation of the arts. Providing meaningful and a wide variety of experiences for all ages in a welcoming environment for visitors and volunteers alike. Reflecting Diversity in our gallery exhibitions and programming, being inclusive of all diverse groups in our community. Involving and reaching out to other like-minded community groups in formal, informal, new and established projects working with the City to ensure an arts presence in all celebratory events.",
+				"id" : "302",
+				"category" : 1,
+				"company" : null,
+				"address2" : "PO Box 16003",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 6W6",
+				"fax" : "",
+				"website" : "http://www.artscouncilnewwest.org",
+				"social_networks" : "-1",
+				"summary" : "The Arts Council has been providing Arts Programming and facilitating the growth of Arts organizations in the city for the benefits of the citizens of New Westminster since 1967. Dedicated to the Performing, Visual and Literary Arts in New Westminster.",
+				"catname" : "Creative Industries",
+				"X" : "-122.90798046947546",
+				"Y" : "49.217545195938655"
+			}
+		}
+	]
+}

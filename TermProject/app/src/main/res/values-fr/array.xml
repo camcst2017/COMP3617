@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cloudy">
+        <item>Explorer les industries créatives</item>
+        <item>Intérêts du patrimoine</item>
+        <item>Terrains de sport</item>
+        <item>Programmation des parcs et des loisirs</item>
+    </string-array>
+    <string-array name="raining">
+        <item>Netflix</item>
+        <item>Jeux vidéo</item>
+        <item>Éducation et alphabétisation</item>
+    </string-array>
+    <string-array name="sunny">
+        <item>Trouver de l'art public</item>
+        <item>Visitez les sites culturels</item>
+        <item>Cours de récréation</item>
+        <item>Terrains de sport</item>
+        <item>Les cafés</item>
+    </string-array>
+    <string-array name="cloudyDescription">
+        <item>Regardez les industries locales.</item>
+        <item>Visitez quelques intérêts patrimoniaux!</item>
+        <item>Visitez les champs dans la région.</item>
+        <item></item>
+    </string-array>
+    <string-array name="sunnyDescription">
+        <item>Beau temps pour vérifier un peu d'art public.</item>
+        <item>Belle journée pour visiter quelques lieux culturels!</item>
+        <item>Emmenez les enfants dans un terrain de jeu local.</item>
+        <item>Journée parfaite pour certains jeux de ramassage!</item>
+        <item>Détendez-vous dans un café local.</item>
+    </string-array>
+    <string-array name="rainingDescription">
+        <item>Temps parfait pour certains netflix.</item>
+        <item>Pas de meilleur jour pour rattraper vos matchs!</item>
+        <item>Trouvez des lieux culturels intéressants!</item>
+    </string-array>
+    <integer-array name="cloudyImage">
+        <item>@drawable/creativeindustry</item>
+        <item>@drawable/heritage</item>
+        <item>@drawable/sports</item>
+        <item>@drawable/recreation</item>
+    </integer-array>
+    <integer-array name="sunnyImage">
+        <item>@drawable/artwork</item>
+        <item>@drawable/culturalvenue</item>
+        <item>@drawable/playground</item>
+        <item>@drawable/sports</item>
+        <item>@drawable/coffee</item>
+    </integer-array>
+    <integer-array name="rainingImage">
+        <item>@drawable/popcorn</item>
+        <item>@drawable/videogames</item>
+        <item>@drawable/literacy</item>
+    </integer-array>
+</resources>

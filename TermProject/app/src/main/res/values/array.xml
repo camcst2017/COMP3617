@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cloudy">
+        <item>Explore Creative Industries</item>
+        <item>Heritage Interests</item>
+        <item>Sports Fields</item>
+        <item>Parks/Rec Programming</item>
+    </string-array>
+    <string-array name="raining">
+        <item>Netflix</item>
+        <item>Video games</item>
+        <item>Education and Literacy</item>
+    </string-array>
+    <string-array name="sunny">
+        <item>Find public art</item>
+        <item>Visit Cultural Venues</item>
+        <item>Playgrounds</item>
+        <item>Sports Fields</item>
+        <item>Coffee Shops</item>
+    </string-array>
+    <string-array name="cloudyDescription">
+        <item>Look at the local industries.</item>
+        <item>Visit some heritage interests!</item>
+        <item>Visit fields in the area.</item>
+        <item>Check out local programs!</item>
+    </string-array>
+    <string-array name="sunnyDescription">
+        <item>Great weather to check out some public art.</item>
+        <item>Nice day to visit some Cultural Venues!</item>
+        <item>Take the kids out to a local playground.</item>
+        <item>Perfect day for some pick up games!</item>
+        <item>Relax at a local coffee shop.</item>
+    </string-array>
+    <string-array name="rainingDescription">
+        <item>Perfect weather for some netflix.</item>
+        <item>No better day to catch up on your games!</item>
+        <item>Find some interesting cultural venues!</item>
+    </string-array>
+    <integer-array name="cloudyImage">
+        <item>@drawable/creativeindustry</item>
+        <item>@drawable/heritage</item>
+        <item>@drawable/sports</item>
+        <item>@drawable/recreation</item>
+    </integer-array>
+    <integer-array name="sunnyImage">
+        <item>@drawable/artwork</item>
+        <item>@drawable/culturalvenue</item>
+        <item>@drawable/playground</item>
+        <item>@drawable/sports</item>
+        <item>@drawable/coffee</item>
+    </integer-array>
+    <integer-array name="rainingImage">
+        <item>@drawable/popcorn</item>
+        <item>@drawable/videogames</item>
+        <item>@drawable/literacy</item>
+    </integer-array>
+</resources>

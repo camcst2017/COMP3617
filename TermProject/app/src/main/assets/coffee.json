@@ -1,0 +1,187 @@
+{
+    "name" : "COFFEE_SHOPS",
+    "type" : "FeatureCollection",
+    "features" : [
+        {
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.906707, 49.204282 ]
+			},
+			"properties" : {
+				"Name" : "ALDOS PASTA BAR",
+				"Address" : "441 Columbia St",
+				"X" : "-122.920052",
+				"Y" : "49.213141"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.920052, 49.213141 ]
+			},
+			"properties" : {
+				"Name" : "BLENZ COFFEE LTD",
+				"Address" : "599 6th Street",
+				"X" : "-122.920052",
+				"Y" : "49.213141"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.933128, 49.210223 ]
+			},
+			"properties" : {
+				"Name" : "COFFEE MANIA & PARADISE DONAIR",
+				"Address" : "723 12th Street",
+				"X" : "-122.933128",
+				"Y" : "49.210223"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.915949, 49.201301 ]
+			},
+			"properties" : {
+				"Name" : "DJK HOLDINGS",
+				"Address" : "77 10th Street",
+				"X" : "-122.915949",
+				"Y" : "49.201301"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90824, 49.203182 ]
+			},
+			"properties" : {
+				"Name" : "JUDGE BEGBIE SIDEWALK CAFE",
+				"Address" : "609 Columbia St",
+				"X" : "-122.90824",
+				"Y" : "49.203182"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.906511, 49.204098 ]
+			},
+			"properties" : {
+				"Name" : "HERITAGE GRILL",
+				"Address" : "447 Columbia St",
+				"X" : "-122.906511",
+				"Y" : "49.204098"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.907705, 49.202899 ]
+			},
+			"properties" : {
+				"Name" : "HILTON INDUSTRIAL DESIGN",
+				"Address" : "604 Columbia St",
+				"X" : "-122.907705",
+				"Y" : "49.202899"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.917592, 49.210623 ]
+			},
+			"properties" : {
+				"Name" : "JAVA JAZZ CAFE & BISTRO",
+				"Address" : "412 6th Street",
+				"X" : "-122.917592",
+				"Y" : "49.210623"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.921562, 49.213963 ]
+			},
+			"properties" : {
+				"Name" : "OKONOMI SUSHI RESTAURANT",
+				"Address" : "620 Sixth St",
+				"X" : "-122.921562",
+				"Y" : "49.213963"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.916045, 49.209496 ]
+			},
+			"properties" : {
+				"Name" : "RIVERS REACH PUB",
+				"Address" : "320 6th St",
+				"X" : "-122.916045",
+				"Y" : "49.209496"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.893092, 49.228589 ]
+			},
+			"properties" : {
+				"Name" : "STARBUCKS",
+				"Address" : "411 E Columbia St",
+				"X" : "-122.893092",
+				"Y" : "49.228589"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.904244, 49.205421 ]
+			},
+			"properties" : {
+				"Name" : "STEFANOS RESTAURANT",
+				"Address" : "315 Columbia St",
+				"X" : "-122.904244",
+				"Y" : "49.205421"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90389, 49.20505 ]
+			},
+			"properties" : {
+				"Name" : "TAVERNA GREKA",
+				"Address" : "326 Columbia St",
+				"X" : "-122.90389",
+				"Y" : "49.20505"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.919348, 49.212762 ]
+			},
+			"properties" : {
+				"Name" : "Westminster Centre - various",
+				"Address" : "555 Sixth St",
+				"X" : "-122.919348",
+				"Y" : "49.213141"
+			}
+		},{
+            "type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91042, 49.202026 ]
+			},
+			"properties" : {
+				"Name" : "WAVES COFFEE HOUSE",
+				"Address" : "715 Columbia St",
+				"X" : "-122.91042",
+				"Y" : "49.202026"
+			}
+		}
+    ]
+}

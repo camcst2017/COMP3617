@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "692778420087",
+    "firebase_url": "https://new-west-open-data.firebaseio.com",
+    "project_id": "new-west-open-data",
+    "storage_bucket": "new-west-open-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692778420087:android:176a35c30895f5b4",
+        "android_client_info": {
+          "package_name": "com.cameronlay.comp3617.termproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692778420087-sb3cqtjfc8b8d9l7asp5u5jcll7msc9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp-mq-yft9nf4daM2ECxaix2mElGkk_EA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Projet Final</string>
+    <string name="recommendedActivity">Activités Recommandées</string>
+    <string name="forecast">Prévision sur 5 jours</string>
+    <string name="otherCity">Changer la ville</string>
+    <string name="groupChat">Espace réservé</string>
+    <string name="degreeCelsius">%1$d&#8451;</string>
+    <string name="title_activity_activities_map">Carte</string>
+    <string name="defaultCity">New Westminster</string>
+    <string name="search">Chercher</string>
+    <string name="searchHint">Entrez le nom de la ville</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">83d9af9ccc63b0027916ec61464e46c1</string>
+    <string name="imgDescription">Image illustrant les prévisions météorologiques</string>
+    <string name="weatherError">Erreur de lecture de la météo</string>
+    <string name="defaultTemp">23&#8451;</string>
+    <string name="activityImg">Icône représentant une activité donnée</string>
+    <string name="defaultActivityTitle1">Tennis</string>
+    <string name="defaultActivityTitle2">Randonnée</string>
+    <string name="defaultActivityTitle3">Fonctionnement</string>
+    <string name="defaultActivityDescrip1">Jouez au tennis aujourd'hui c'est parfait!</string>
+    <string name="defaultActivityDescrip2">Journée parfaite pour la randonnée!</string>
+    <string name="defaultActivityDescrip3">Aujourd'hui c'est une belle journée pour courir!</string>
+</resources>

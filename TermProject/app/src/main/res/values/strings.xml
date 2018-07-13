@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Term Project</string>
+    <string name="recommendedActivity">Recommended Activities</string>
+    <string name="forecast">5-Day Forecast</string>
+    <string name="otherCity">Change City</string>
+    <string name="groupChat">Placeholder</string>
+    <string name="degreeCelsius">%1$d&#8451;</string>
+    <string name="title_activity_activities_map">Map</string>
+    <string name="defaultCity">New Westminster</string>
+    <string name="search">Search</string>
+    <string name="searchHint">Enter city name</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">83d9af9ccc63b0027916ec61464e46c1</string>
+    <string name="imgDescription">Image depicting forecast weather</string>
+    <string name="weatherError">Error reading weather</string>
+    <string name="defaultTemp">23&#8451;</string>
+    <string name="activityImg">Icon depicting given activity</string>
+    <string name="defaultActivityTitle1">Tennis</string>
+    <string name="defaultActivityTitle2">Hiking</string>
+    <string name="defaultActivityTitle3">Running</string>
+    <string name="defaultActivityDescrip1">Play some tennis today it\'s perfect!</string>
+    <string name="defaultActivityDescrip2">Perfect day for Hiking!</string>
+    <string name="defaultActivityDescrip3">Today is a great day to go out running!</string>
+</resources>

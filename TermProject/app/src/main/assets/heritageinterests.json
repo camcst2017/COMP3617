@@ -1,0 +1,2442 @@
+{
+	"name" : "HERITAGE_INTEREST",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92549641718658, 49.20767622514355 ]
+			},
+			"properties" : {
+				"email" : "stbarna@telus.net",
+				"phone" : "604-526-6646",
+				"Name" : "St. Barnabas' Anglican Church",
+				"Address" : "1010 Fifth Avenue",
+				"Descriptn" : "In 1891 St. Barnabas opened its doors.  Now, more than 122 years later, we are an inclusive and caring community.  Our regular worship service is Sunday at 10am, and all are welcome, from the youngest to the oldest of our neighbours.  We also meet on Tuesdays at noon, for Eucharist, and Tuesday through Friday for a short, quiet service of Morning Prayer, at 9:15.  We also gather for a community meal, Thursdays at 11, and host an emergency food cupboard on Friday mornings.  Our Thrift Store boasts the best prices on earth!  We also celebrate numerous community cultural and educational events throughout the year.  Most of all, we strive to be the Light on the Hill, a place of love, kindness, generosity and joy!  Please come and visit!",
+				"id" : "57",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1Y5",
+				"fax" : "",
+				"website" : "http://www.stbarnabasparish.ca",
+				"social_networks" : "-1",
+				"summary" : "St. Barnabas Anglican Church is a lovely historical church, the light on the brow of the hill.  It is a place of community, of friendship and of spirit, where all are welcome, to worship, share a bowl of soup, or a cup of tea.",
+				"catname" : "Heritage",
+				"X" : "-122.92549641718658",
+				"Y" : "49.20767622514355"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90647105264144, 49.207763583650795 ]
+			},
+			"properties" : {
+				"email" : "museum@newwestcity.ca",
+				"phone" : "604-527-4640",
+				"Name" : "Irving House",
+				"Address" : "302 Royal Avenue",
+				"Descriptn" : "Located in the heart of the Royal City, Irving House is one of the oldest community heritage sites in BC. Step back to the 1800s as you enter the colonial home of Captain William Irving, King of the Fraser River. Over 140 years of memories live within Irving House \"the handsomest, the best and most home-like house of which British Columbia can yet boast...\" was how Irving House was described in the British Columbian newspaper in April 1865. With 14 furnished rooms to enjoy, Irving House is a must-see for everyone interested in New Westminster's past and anyone interested in the Victorian period, heritage architecture or BC's earliest stories. During your visit you will admire the ornate ceiling plasterwork, the glow of original wallpaper and the elaborate fireplaces. You can easily imagine the festivities and celebrations that took place in the parlour and formal dining room. Let our costumed guides step you back in time!",
+				"id" : "74",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L1H7",
+				"fax" : "",
+				"website" : "http://www.newwestpcr.ca/culture/museum_and_archives/1865_irving_house.php",
+				"social_networks" : "-1",
+				"summary" : "Located in the heart of the Royal City, Irving House is one of the oldest community heritage sites in BC. Step back to the 1800s as you enter the colonial home of Captain William Irving, King of the Fraser River.",
+				"catname" : "Heritage",
+				"X" : "-122.90647105264144",
+				"Y" : "49.207763583650795"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91352668024376, 49.19973627940042 ]
+			},
+			"properties" : {
+				"email" : "museum@newwestcity.ca",
+				"phone" : "604-527-4640",
+				"Name" : "Samson 5 Maritime Museum",
+				"Address" : "900 Quayside Drive",
+				"Descriptn" : "The Samson V, launched in 1937, is the last surviving wooden steam-powered sternwheeler built for the federal Department of Public Works for use as a snag-boat on the Fraser River. At 418 gross tons and 115 on deck, she was the fifth in a series of similar vessels dating back to 1884 that cleared debris, maintained aids to navigation and government docks, performed surveys and served other functions as needed. The Samson V was the last steam-powered sternwheeler to operate in Canada and representative of a long-standing federal government involvement in maintaining the waterways of western Canada. The Historic Sites and Monuments Board of Canada has declared the operation of sternwheeler snag-boats by the Department of Public works on the rivers of British Columbia an event of national historic significance and in the future intends to commemorate this by means of a plaque installed on or near the Samson V, the last representative example of these vessels. The Samson V was retired in 1980 and sold to the City of New Westminster for one dollar on the understanding that the vessel would be preserved as a museum and that it occupy a unique place in the Province's and City's maritime heritage. The Samson V remains the only completely intact and floating wooden sternwheeler in North America.",
+				"id" : "76",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M6G1",
+				"fax" : "",
+				"website" : "http://www.newwestpcr.ca/culture/samson_v_maritime_museum.php",
+				"social_networks" : "-1",
+				"summary" : "The Samson V, launched in 1937, is the last surviving wooden steam-powered sternwheeler on the Fraser River. She was the fifth in a series of similar vessels dating back to 1884 that cleared debris, maintained aids to navigation and government docks, performed surveys and served other functions as needed.",
+				"catname" : "Heritage",
+				"X" : "-122.91352668024376",
+				"Y" : "49.19973627940042"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9123494299268, 49.203480255998606 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-527-5436",
+				"Name" : "Earl Noah",
+				"Address" : "700 Royal Avenue",
+				"Descriptn" : "I have a long personal and professional interest in the evolving urban historical geography of New Westminster. I have conducted numerous field trips in most districts of New Westminster. I am also a member of the New Westminster Historical Society.",
+				"id" : "80",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M5Z5",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "I am a Geography Instructor at Douglas College. My area of expertise is the urban historical geography of New Westminster.  I have conducted various walking tours around New Westminster.",
+				"catname" : "Heritage",
+				"X" : "-122.9123494299268",
+				"Y" : "49.203480255998606"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92237484061125, 49.211782907282156 ]
+			},
+			"properties" : {
+				"email" : "reference@nwpl.ca",
+				"phone" : "604-527-4660",
+				"Name" : "New Westminster Public Library",
+				"Address" : "716 Sixth Avenue",
+				"Descriptn" : "The New Westminster Public Library is a tax-supported service that endeavours to meet the informational, educational, cultural, and recreational needs of New Westminster residents. The Library gathers, organizes, integrates and disseminates past and present ideas, facts, and creative insights to enable individuals, regardless of age, background, or position, to meet the requirements of a changing society. Library Goals: To match Library facilities, resources and services to the particular needs and interests of New Westminster residents. To provide informational, educational, cultural, and recreational materials in diverse forms for the enrichment, self-development and enjoyment of New Westminster residents, and to organize these materials for optimum use. To provide a knowledgeable, well-trained and responsive staff in sufficient numbers to maintain a high level of service. To make New Westminster residents aware of their Library's resources and services. To co-operate actively with other libraries and community agencies in order to share resources and broaden the scope of the Library's services without duplication of effort.\\n\\nTo be a responsible public employer in dealings with the staff of the Library.",
+				"id" : "136",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 2B3",
+				"fax" : "",
+				"website" : "http://www.nwpl.ca",
+				"social_networks" : "-1",
+				"summary" : "The New Westminster Public Library endeavours to meet the informational, educational, cultural, and recreational needs of residents. The Library gathers, organizes, integrates and disseminates past and present ideas, facts, and creative insights to enable individuals, regardless of age, background, or position, to meet the requirements of a changing society.",
+				"catname" : "Heritage",
+				"X" : "-122.92237484061125",
+				"Y" : "49.211782907282156"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94359991899356, 49.18582903678296 ]
+			},
+			"properties" : {
+				"email" : "reference@nwpl.ca",
+				"phone" : "604-636-4450",
+				"Name" : "New Westminster Public Library (Queensborough Branch)",
+				"Address" : "920 Ewen Avenue",
+				"Descriptn" : "The New Westminster Public Library is a tax-supported service that endeavours to meet the informational, educational, cultural, and recreational needs of New Westminster residents. The Library gathers, organizes, integrates and disseminates past and present ideas, facts, and creative insights to enable individuals, regardless of age, background, or position, to meet the requirements of a changing society. Library Goals: To match Library facilities, resources and services to the particular needs and interests of New Westminster residents. To provide informational, educational, cultural, and recreational materials in diverse forms for the enrichment, self-development and enjoyment of New Westminster residents, and to organize these materials for optimum use. To provide a knowledgeable, well-trained and responsive staff in sufficient numbers to maintain a high level of service. To make New Westminster residents aware of their Library's resources and services. To co-operate actively with other libraries and community agencies in order to share resources and broaden the scope of the Library's services without duplication of effort. To be a responsible public employer in dealings with the staff of the Library.",
+				"id" : "137",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 5C8",
+				"fax" : "",
+				"website" : "http://www.nwpl.ca",
+				"social_networks" : "-1",
+				"summary" : "The New Westminster Public Library endeavours to meet the informational, educational, cultural, and recreational needs of residents. The Library gathers, organizes, integrates and disseminates past and present ideas, facts, and creative insights to enable individuals, regardless of age, background, or position, to meet the requirements of a changing society.",
+				"catname" : "Heritage",
+				"X" : "-122.94359991899356",
+				"Y" : "49.18582903678296"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94196192508912, 49.208396300102606 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Alan & Edith Webster Residence",
+				"Address" : "827 Sixteenth Street",
+				"Descriptn" : "The Alan & Edith Webster Residence is situated at the corner of Edinburgh and Sixteenth Streets in the historic West End neighbourhood in New Westminster. This historic dwelling is notable for its Period Revival architecture with complex steeply-pitched rooflines, built-in flower boxes and tall internal red-brick chimney. Built in 1938, the Alan & Edith Webster Residence is significant for its Period Revival architecture. The period between the two World Wars was a time of entrenched traditionalism in residential architecture in North America. Houses were expected to display historical motifs as a reflection of the owners’ good taste, harkening back to a romantic representation of traditional domestic values and an idyllic suburban lifestyle. This house displays only a cautious embrace of modernism, and includes Period Revival elements, such as complex steeply-pitched rooflines, built-in flower boxes, and a mixture of diamond leaded casement windows and multi-paned double-hung windows that demonstrate a vestigial influence of the British Arts and Crafts style. An efficient and rational floor plan with smaller rooms arranged around a central living room, reflected the reality that most families, during this period of austerity, could no longer afford domestic help. Further value is attained for this residence’s association with first owners Alan Webster and his wife, Edith. Alan Webster, who studied at the University of British Columbia, was employed as an Engineer with the Canadian Government. This house was constructed by J. Northey & Son at a cost of $4,000.",
+				"id" : "149",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 2W5",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Built in 1938, the Alan & Edith Webster Residence is significant for its Period Revival architecture. The period between the two World Wars was a time of entrenched traditionalism in residential architecture in North America.",
+				"catname" : "Heritage",
+				"X" : "-122.94196192508912",
+				"Y" : "49.208396300102606"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91291393313223, 49.216817878199116 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Alfred & Beatrice Parsons Residence",
+				"Address" : "120 Sixth Avenue",
+				"Descriptn" : "The Alfred & Beatrice Parsons Residence is a one-storey wood-frame Arts and Crafts bungalow located on the south side of Sixth Avenue in the historic Queen's Park neighbourhood in New Westminster. This well-kept house is notable for its front-gabled porch with square piers resting on tapered columns, scroll-cut rafter tails, and stained glass windows. Built in 1911, the Alfred & Beatrice Parsons Residence is significant for its association with the Edwardian-era development of the Queen’s Park neighbourhood, the most affluent and desirable residential area of New Westminster. Located uphill from the Fraser River and the downtown core, Queen’s Park began to develop in the 1880s. The historic character of Queen’s Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping. The Alfred & Beatrice Parsons Residence is further valued for its Arts and Crafts architecture, as seen by its half-timbering, scroll-cut rafter tails, triangular eave brackets and tapered piers. Wooden lapped siding and shingle siding provide contrasting texture to the wall surfaces. This house additionally exhibits a number of stained glass leaded windows with an Arts and Crafts motif. The first owners of this residence were Alfred M. Parsons (1883-1905) and his wife Beatrice May (née Clapp, 1887-1947). Alfred, who was a native of Chilliwack, worked as a carpenter and constructed this house himself at a cost of $1,500.",
+				"id" : "150",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2M2",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Built in 1911, the Alfred & Beatrice Parsons Residence is significant for its association with the Edwardian-era development of the Queen's Park neighbourhood, the most affluent and desirable residential area of New Westminster.",
+				"catname" : "Heritage",
+				"X" : "-122.91291393313223",
+				"Y" : "49.216817878199116"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91835384223415, 49.20533486950064 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Alfred H. Soloman Residence",
+				"Address" : "218 Burr Street",
+				"Descriptn" : "The Alfred H. Soloman Residence, constructed in 1908, is significant as a typical example of speculative-built rental housing, constructed during a time of rapid residential development.",
+				"id" : "151",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1N1",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The Alfred H. Soloman Residence, constructed in 1908, is significant as a typical example of speculative-built rental housing, constructed during a time of rapid residential development.",
+				"catname" : "Heritage",
+				"X" : "-122.91835384223415",
+				"Y" : "49.20533486950064"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91552644623594, 49.21060857519845 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Armitage House",
+				"Address" : "340 Fifth Street",
+				"Descriptn" : "The Armitage House is important in particular for its representation of 1930’s New Westminster and for its architectural style. Built circa 1938, the Armitage House is an excellent example of an English Cottage-style home common to the region and to the country in the 1920s and 30s, but now much less familiar. It is strongly reminiscent of the catalogue houses that were offered in North America by the Sears Modern Homes Program (1908-1940). The design of this house is interesting for being remarkably similar to the 'Yates Model 3711', which the Sears catalogue described as 'a mellow house, pleasantly flavored with English-cottage characteristics.' The English Cottage design was popular with the emerging middle class (to which the Armitages belonged) as it was both attractive and affordable. It espoused the Arts and Crafts movement through its design elements, such as an asymmetrical façade, a window pattern that reflects the interior room functions, orientation of the house to take advantage of natural lighting, minimal use of picturesque detail, and the overall design emphasis of function showing through design. This house is significant for having very few changes in the original exterior design elements, making it easily readable as a 1930’s catalogue English Cottage home. The location of the house on the edge of comfortable Queen’s Park speaks to an upwardly-mobile family, and the house itself is a physical connection to the George Armitage family. George was important to New Westminster as the long-time manager of the Valley Lumber Company.",
+				"id" : "152",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2X4",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The Armitage House is a two-storey house built in the English Cottage style, situated on a corner residential lot in the historic Queen’s Park. It has a cross-gabled roof and wide, horizontal beveled wood siding. The modest front porch has a distinctive curved roof supported on paired decorative wood brackets.",
+				"catname" : "Heritage",
+				"X" : "-122.91552644623594",
+				"Y" : "49.21060857519845"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91295520257705, 49.21200993096042 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Arthur & Charlotte Green Residence",
+				"Address" : "335 Pine Street",
+				"Descriptn" : "Bunachie is a two storey, Edwardian-era wood-frame house, located on a prominent corner lot across from Queen's Park on First Street at Third Avenue. The house, which features a hipped roof, a projecting corner bay and a wraparound verandah, is a landmark house in the Queen's Park neighbourhood in New Westminster. Constructed during a period of substantial growth in New Westminster, Bunachie is valued as an illustration of the Edwardian-era development of the historic Queen's Park neighbourhood, the most affluent and desirable residential area of New Westminster. The historic character of Queen's Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping. This house is further valued for its association with longtime owners, the McKay family. It was built for Barbara S. McKay in 1905 by her father.  Bunachie is also a superior example of Edwardian-era architecture, reflective of a booming period of prosperity and growth in New Westminster. The design is attributed to well-known local architect, Edwin George William Sait (1867-1949), who immigrated to western Canada in the 1890s. He had a successful career in architecture, including the New Westminster Carnegie Library (1902-04) and several large structures at the Provincial Exhibition grounds in Queen’s Park. The use of a crossed-mullion pattern, as seen in this house, was typical of Sait’s work. Other elements of the design reflect the transitional nature of residential architecture in the mid-Edwardian era, when the newly-fashionable Classical Revival style was supplanting the picturesque eclecticism of the Victorian era.",
+				"id" : "153",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1M4",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Built in 1910-11, the Arthur & Charlotte Green Residence is significant as a fine representation of the booming economy in New Westminster during the Edwardian era, and for its prominent location in the affluent Queen's Park neighbourhood.",
+				"catname" : "Heritage",
+				"X" : "-122.91295520257705",
+				"Y" : "49.21200993096042"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91079434150018, 49.201189191887195 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "British Columbia Electric Railway Company",
+				"Address" : "774 Columbia Street",
+				"Descriptn" : "It was built at the time that the B.C. Electric Railway Company was extending its interurban system east to Chilliwack, to serve the fledgling agricultural communities and forest industries of the Fraser Valley. The 'Market', 'Milk', 'Mail' and 'Owl' trains provided rail links between the metropolitan areas and the upper valley, facilitating rapid development in the sparsely settled lands to the east. The Fraser Valley line opened on November 6, 1910, and established patterns of settlement that, despite the line's closure in 1950, are still evident today. This landmark building was designed in 1909 and constructed in 1910-11, and included offices and the dispatch centre for the interurban system. The design allowed interurban cars to pass though the building diagonally to connect the Front Street and Columbia Street rail tracks though a large opening on Eighth Street. Its location opposite the Canadian Pacific Railway (CPR) station integrated local, regional and national transportation systems. Additionally, the BCER Company building is significant for its contribution to the consistent and distinctive built form of Columbia and Front Streets, which dates from 1898 to 1913, when New Westminster was the major centre of commerce and industry for the booming Fraser Valley area. Further heritage value lies in the building's architecture, designed by the prominent Vancouver-based architectural firm Maclure and Fox, the partnership of Samuel Maclure (1860-1929) and Cecil Croker Fox (1879-1916) who were best known for their numerous prestigious residential projects.",
+				"id" : "154",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 5V2",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The heritage value of the BCER Company building is associated with the development of regional commuter and freight transportation, and the increasing importance of New Westminster as a transportation and distribution hub in the Lower Mainland.",
+				"catname" : "Heritage",
+				"X" : "-122.91079434150018",
+				"Y" : "49.201189191887195"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90654271722791, 49.212807749912834 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Bunachie",
+				"Address" : "238 First Street",
+				"Descriptn" : "Bunachie is a two storey, Edwardian-era wood-frame house, located on a prominent corner lot across from Queen's Park on First Street at Third Avenue. The house, which features a hipped roof, a projecting corner bay and a wraparound verandah, is a landmark house in the Queen's Park neighbourhood in New Westminster. Constructed during a period of substantial growth in New Westminster, Bunachie is valued as an illustration of the Edwardian-era development of the historic Queen’s Park neighbourhood, the most affluent and desirable residential area of New Westminster. The historic character of Queen’s Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping. This house is further valued for its association with longtime owners, the McKay family. It was built for Barbara S. McKay in 1905 by her father. Bunachie is also a superior example of Edwardian-era architecture, reflective of a booming period of prosperity and growth in New Westminster. The design is attributed to well-known local architect, Edwin George William Sait (1867-1949), who immigrated to western Canada in the 1890s. He had a successful career in architecture, including the New Westminster Carnegie Library (1902-04) and several large structures at the Provincial Exhibition grounds in Queen’s Park. The use of a crossed-mullion pattern, as seen in this house, was typical of Sait’s work. Other elements of the design reflect the transitional nature of residential architecture in the mid-Edwardian era, when the newly-fashionable Classical Revival style was supplanting the picturesque eclecticism of the Victorian era.",
+				"id" : "155",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2G5",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Constructed during a period of substantial growth in New Westminster, Bunachie is valued as an illustration of the Edwardian-era development of the historic Queen's Park neighbourhood, the most affluent and desirable residential area of New Westminster.",
+				"catname" : "Heritage",
+				"X" : "-122.90654271722791",
+				"Y" : "49.212807749912834"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90673748214999, 49.203214158061705 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Columbia Theatre",
+				"Address" : "530 Columbia Street",
+				"Descriptn" : "The eclectic ornamentation of the exterior reflects the exoticism of the popular Period Revival styles, promoted by Hollywood as appropriate for neighbourhood movie palaces. These romantic themes were carried into the interior. Murals of romantic Mediterranean scenery, lanterns, plaster screens, wrought iron trellis work covered with climbing roses and twinkling stars in a midnight sky gave the patrons the illusion of being seated in an exotic walled garden. In the 1920s movies were becoming the premier form of popular entertainment; the Columbia Theatre is valued as a local representation of the growth of this Hollywood phenomenon. In 1912, Adolph Zukor established the Famous Players Film Company, which merged four years later with the Jesse L. Lasky Company to form the Famous Players-Lasky Corporation; their film distribution company was named Paramount Pictures. The Columbia was operated as part of this chain for the duration of its life as a movie theatre.  Additionally, the Columbia Theatre is valued for its architecture. Its architects, Fred Laughton Townley (1887-1966) and Robert Michael Matheson (1887-1935) were best known for their design of Vancouver City Hall. In the inter-war period this firm flourished as one of the leaders in the use of traditional period revival styles as well as in their exploration of modernism, particularly in their sophisticated institutional work. After the construction of the Columbia Theatre, Townley and Matheson became the local architects for Famous Players. The interior decoration was undertaken by Girvan Studios of Vancouver, led by John Girvan (1876-1957).",
+				"id" : "156",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1B2",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The Columbia Theatre is valued as one of the only surviving atmospheric theatres in British Columbia and one of only a few remaining in Canada.",
+				"catname" : "Heritage",
+				"X" : "-122.90673748214999",
+				"Y" : "49.203214158061705"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90727203555646, 49.209428358384976 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Davidson Residence",
+				"Address" : "218 Queens Avenue",
+				"Descriptn" : "The Davidson Residence is a large two-storey, wood-frame Arts and Crafts residence with asymmetrical massing and a hipped roof with two front projecting gables. The house is situated on the south side of Queen’s Avenue, in the historic Queen’s Park neighbourhood in New Westminster. It features a textural contrast of exterior materials, half-timbering in the gable peaks, exposed rafters, a corner side entry, and leaded casement windows. Built in 1909-10, the Davidson Residence is significant for its connection with the Edwardian-era development of the historic Queen’s Park neighbourhood, the most affluent and desirable residential area of New Westminster. The historic character of Queen’s Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping.  Additionally, the Davidson Residence is significant as an outstanding example of both American and British Arts and Crafts design by the prominent local architectural firm of Gardiner & Gardiner, the partnership of English-born brothers Francis George Gardiner (1878-1966) and William F. Gardiner (1884-1951). Gardiner & Gardiner designed many of the buildings along Columbia Street during the pre-First World War boom in New Westminster. They also had a thriving practice in residential buildings, of which this house is a prime example. It was designed for Herbert Robert Davidson, manager of the Canadian Bank of Commerce in New Westminster. Befitting his status in the community, his house displayed features typical of the British Arts and Craft style, representing traditional associations with the Mother Country and the patriotic loyalty considered desirable at the time.",
+				"id" : "158",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1J9",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Built in 1909-10, the Davidson Residence is significant for its connection with the Edwardian-era development of the historic Queen's Park neighbourhood, the most affluent and desirable residential area of New Westminster.",
+				"catname" : "Heritage",
+				"X" : "-122.90727203555646",
+				"Y" : "49.209428358384976"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93276208864485, 49.21465877675408 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Douglas House",
+				"Address" : "913 Tenth Street",
+				"Descriptn" : "The Douglas House, at 913 Tenth Street, is a picturesque one-and-one-half storey late Craftsman Bungalow, with distinctive wide wooden shingle siding. Set back from the street on a well landscaped lot in the Kelvin neighbourhood in New Westminster, this house is associated with 915 Tenth Street, constructed the same year by the same builder. Built in 1931 by developer Robert Edgar Douglas, the Douglas House is valued as a representation of the more modest housing built during the time of the Great Depression in New Westminster. Due to the devastating economic impact, many grand earlier homes of more prosperous times were torn down and the land subdivided to build smaller, more modest homes. The developer of this rental property was Robert Edgar Douglas, who also built the adjacent house at 915 Tenth Street to the same plan. Finnish carpenter Theodore Skytte (1897-1960) was hired to construct both small yet thoughtfully detailed ‘Five-room semi-Bungalows’. The period between the two World Wars was a time of entrenched traditionalism in residential architecture in North America. Houses were expected to display historical motifs as a reflection of the owners’ good taste, harkening back to a romantic representation of traditional domestic values and an idyllic suburban lifestyle. Typical of its era, the Douglas House displays late Craftsman elements, such as its partial-width porch with front-gabled roof with closed cornice return and tapered porch columns.",
+				"id" : "160",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 4A5",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/913%20Tenth%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built in 1931 by developer Robert Edgar Douglas, the Douglas House is valued as a representation of the more modest housing built during the time of the Great Depression in New Westminster.",
+				"catname" : "Heritage",
+				"X" : "-122.93276208864485",
+				"Y" : "49.21465877675408"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93284867577292, 49.2147262917321 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Douglas House #2",
+				"Address" : "915 Tenth Street",
+				"Descriptn" : "Set on a lot at the corner of Tenth Street and London Street in the Kelvin neighbourhood of New Westminster, the Douglas House #2 at 915 Tenth Street is a one-and-one-half storey, wood-frame late Craftsman Bungalow with lapped wooden siding and a projecting front-gabled porch with tapered columns. The house is set on a well landscaped lot and is associated with 913 Tenth Street, constructed the same year by the same builder. Built in 1931 by developer Robert Edgar Douglas, the Douglas House is valued as a representation of the more modest housing built during the time of the Great Depression in New Westminster. Due to the devastating economic impact, many grand earlier homes of more prosperous times were torn down and the land subdivided to build smaller, more modest homes. The developer of this rental property was Robert Edgar Douglas, who also built the adjacent house at 915 Tenth Street to the same plan. Finnish carpenter Theodore Skytte (1897-1960) was hired to construct both small yet thoughtfully detailed ‘Five-room semi-Bungalows’. The period between the two World Wars was a time of entrenched traditionalism in residential architecture in North America. Houses were expected to display historical motifs as a reflection of the owners’ good taste, harkening back to a romantic representation of traditional domestic values and an idyllic suburban lifestyle. Typical of its era, the Douglas House displays late Craftsman elements, such as its partial-width porch with front-gabled roof with closed cornice return and tapered porch columns.",
+				"id" : "161",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 4A5",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/915%20Tenth%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built in 1931 by developer Robert Edgar Douglas, the Douglas House is valued as a representation of the more modest housing built during the time of the Great Depression in New Westminster.",
+				"catname" : "Heritage",
+				"X" : "-122.93284867577292",
+				"Y" : "49.2147262917321"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90867135831249, 49.20233668259184 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Dupont Block",
+				"Address" : "642 Columbia Street",
+				"Descriptn" : "The Dupont Block is a two-storey plus lower level brick commercial Victorian Italianate building, distinguished by a chamfered corner entrance, arched window hoods and a corbelled cornice. It is located on a steeply sloped site on the south side of Columbia Street, the main commercial street in New Westminster's historic downtown core, at the corner of McKenzie Street. The rear of the building faces Front Street, where the sloping site exposes the lower level, and provides the opportunity for a secondary storefront. The Dupont Block is significant for its contribution to the consistent and distinctive built form of Columbia and Front Streets, which dates from 1898 to 1913, when New Westminster was the major centre of commerce and industry for the booming Fraser Valley area. A three-storey brick and stone block was completed on this site in 1891, designed by architect G.W. Grant for Victoria investors D.R. Harris and Major Charles T. Dupont. After its destruction in the Great Fire of 1898, Dupont financed a replacement two-storey block, also designed by Grant, that incorporated the still-standing walls of the earlier structure. Completed in 1899, this was one of the largest ground floor areas covered by a single building in the province. The Dupont Block was designed in the Victorian Italianate style, with a chamfered corner entry and arched window hoods. The exterior of the building was finished in a mortar stucco to disguise the fire-ravaged walls of the earlier building. In 1910, the western portion of the building was redeveloped as the Edison Theatre. The Dupont Block is additionally valued for its association with its architect George William Grant (1852-1925), a prolific architect, who designed many of the buildings in downtown New Westminster, before and after the Great Fire. He redesigned and restored buildings that survived, and designed replacement blocks for those that were destroyed, much reduced in scale and opulence from the pre-fire buildings.",
+				"id" : "163",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1A9",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/642%20Columbia%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The Dupont Block is significant for its contribution to the consistent and distinctive built form of Columbia and Front Streets, which dates from 1898 to 1913, when New Westminster was the major centre of commerce and industry for the booming Fraser Valley area.",
+				"catname" : "Heritage",
+				"X" : "-122.90867135831249",
+				"Y" : "49.20233668259184"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91359483405317, 49.212199312202 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "E-Dee-Nie",
+				"Address" : "315 Fourth Avenue",
+				"Descriptn" : "E-Dee-Nie is a large two-and-one-half storey, Arts and Crafts-style house located at the corner of Fourth Avenue and Pine Street in the historic Queen’s Park neighbourhood in New Westminster. The house is distinguished by its side-gabled roof, with prominent projecting front gables, half-timbering in the gable peaks, round projecting bays on the north side, a full-width open verandah supported by heavy timber posts on tapered river rock columns, and leaded glass windows. E-Dee-Nie is significant for its connection with the Edwardian-era development of the historic Queen’s Park neighbourhood, the most affluent and desirable residential area of New Westminster. The historic character of Queen’s Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping.  Additionally, E-Dee-Nie is significant as an outstanding example of an Edwardian-era Arts and Crafts residence, designed by architect Edmund John Boughen (1874-1967) as his family’s residence. He moved to New Westminster in 1911, and that year built this grand house at a cost of $5,000. During World War One, Boughen relocated to Vancouver, and continued in practice until the early 1950s. The Arts and Crafts aesthetic is reflected in the complex, asymmetrical massing, half-timbered gables, variety of textured claddings, and the use of locally-available building materials, such as wood and river rock. Fine craftsmanship and materials are evident in the ornate exterior decorative features, and in the stained glass windows manufactured by a local firm, Royal City Glass.",
+				"id" : "164",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1M4",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/315%20Fourth%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "E-Dee-Nie is significant for its connection with the Edwardian-era development of the historic Queen's Park neighbourhood, the most affluent and desirable residential area of New Westminster.",
+				"catname" : "Heritage",
+				"X" : "-122.91359483405317",
+				"Y" : "49.212199312202"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90457145602511, 49.21083841923132 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Ellen Rogers Residence",
+				"Address" : "107 Park Row",
+				"Descriptn" : "Located on Park Row in the historic Queen’s Park neighbourhood in New Westminster, the Ellen Rogers Residence is a one-and-one-half storey, wood-frame house with a wraparound verandah, a second-storey porch, and a gabled dormer over the front entry. Constructed in 1909, the Ellen Rogers Residence is significant for its association with the Edwardian-era development of Queen's Park. The historic character of Queen’s Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping. Typical of middle-class, Edwardian-era housing in Queen’s Park, this house is additionally valued for its association with original owner Ellen Rogers. In addition, it is a fine example of an Edwardian-era residential house, and is particularly noted for its steeply-pitched side-gabled roof with front gable dormer, its second-floor porch over the front entry and its wrap-around verandah.",
+				"id" : "165",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1J6",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/107%20Park%20Row.pdf",
+				"social_networks" : "-1",
+				"summary" : "Constructed in 1909, the Ellen Rogers Residence is significant for its association with the Edwardian-era development of Queen's Park.  The historic character of Queen's Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping.",
+				"catname" : "Heritage",
+				"X" : "-122.90457145602511",
+				"Y" : "49.21083841923132"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90401721920932, 49.20967307008041 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "English Corners",
+				"Address" : "119 Royal Avenue",
+				"Descriptn" : "English Corners is a two and one-half storey Victorian-era British Arts and Crafts style, wood-frame residence, notable for its prominent cross-gabled roof, complex and picturesque massing, and projecting verandahs and balconies with scroll-cut screens. It is located on a prominent corner lot on Royal Avenue, with its front entrance facing Park Row. Built in 1891-92, English Corners is valued as an excellent and early local example of the British Arts and Crafts movement of the Late Victorian era. Prevalent throughout Britain in the mid to late-nineteenth century, the influence of the Arts and Crafts movement was just beginning to reach British Columbia at this time, and strongly affected the architects of this house, English-born Richard Prior Sharp (born 1859) and New Westminster native, Samuel Maclure (1860-1929). Maclure is remembered as the leading residential architect in British Columbia in the early twentieth century, and as a staunch proponent of Arts and Crafts design. The overall complex massing, cross-gabled roofline, half-timbered gables and varied claddings reflect traditional British antecedents, and the Arts and Crafts aesthetic is reflected in the construction, using locally-available building materials, and in the fine craftsmanship and materials, including ornate scroll-work and brackets on the exterior, and a functional and beautiful interior with intricate woodwork. The decorative stained glass panel in the hallway is an early example of the work of Henry Bloomfield and Sons, the first art glass firm in Western Canada, established in New Westminster in 1890.",
+				"id" : "166",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1H1",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/119%20Royal%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built in 1891-92, English Corners is valued as an excellent and early local example of the British Arts and Crafts movement of the Late Victorian era.",
+				"catname" : "Heritage",
+				"X" : "-122.90401721920932",
+				"Y" : "49.20967307008041"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91466594568874, 49.21236652124877 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Frank & Leah Purvis Residence",
+				"Address" : "417 Fourth Street",
+				"Descriptn" : "The Frank & Leah Purvis Residence is a one-and-one-half-storey wood-frame, side-gabled Period Revival bungalow. It is situated on the east side of Fourth Street in the historic Queen’s Park neighbourhood in New Westminster. Noteworthy features include a front-entry porch with a hipped roof supported by two columns and two front-gabled dormers. Built in 1939, the Frank & Leah Purvis Residence is significant for its association with the ongoing development of Queen’s Park during the interwar period. The historic character of Queen’s Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping. Furthermore, the Frank & Leah Purvis Residence is valued as an example of Period Revival architecture and illustrates a conscious shift to a simpler style, facilitated by the social and economic consciousness of the interwar period. At the time, houses were expected to display some sort of historical reference in order to demonstrate the owner’s good taste. This was especially important in the more prestigious neighbourhoods such as Queen’s Park and demonstrates an underlying conservatism in this tightly-knit neighbourhood. An efficient and rational floor plan, including rooms closely arranged around a central hallway, reflected the reality that most families could no longer afford domestic help. The first owners were long-time New Westminster residents, Francis William Purvis (1887-1981) and his wife Leah (née Marshall, 1896-1980).",
+				"id" : "167",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1R6",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/417%20Fourth%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built in 1939, the Frank & Leah Purvis Residence is significant for its association with the ongoing development of Queen's Park during the interwar period. The historic character of Queen's Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping.",
+				"catname" : "Heritage",
+				"X" : "-122.91466594568874",
+				"Y" : "49.21236652124877"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9232459109768, 49.20643115229236 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Furness Residence",
+				"Address" : "340 Tenth Street",
+				"Descriptn" : "The Furness Residence is a one-storey, front-gabled Arts and Crafts bungalow situated at the corner of Tenth Street and Fourth Avenue in the historic Brow of the Hill neighbourhood, in New Westminster. This well-maintained house is noteworthy for its half-timbering in the gable peak, partial-width open verandah supported by tapered wooden columns resting on limestone piers, notched rafter tails, and stained glass windows. Built in 1913, the Furness Residence is significant as an outstanding example of an Edwardian-era Arts and Crafts residence. Designed by architect Edmund John Boughen (1874-1967), he built this grand house at a cost of $4,000. During the First World War, Boughen relocated to Vancouver, and continued in practice until the early 1950s. The Arts and Crafts aesthetic is reflected in the complex, asymmetrical massing, half-timbered gables, varied of textured claddings, and the use of locally-available building materials, such as wood and river rock. Fine craftsmanship and materials are also evident in the ornate exterior decorative features and stained glass windows. This house remains largely intact, due to few alterations over time. Additional value is attained through the house’s accociation with the Furness family. English-born William Furness (1843-1944) immigrated to Canada circa 1888, where he took up work as a contractor. Furness had a lucrative career and received the first tender for the construction of the Lulu Island Bridge. He occupied this residence with his wife Margaret (née Winnette, 1841-1919) and their daughter Elizabeth (1871-1959). William occupied this house until his passing in 1944.",
+				"id" : "168",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 2Y2",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/340%20Tenth%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built in 1913, the Furness Residence is significant as an outstanding example of an Edwardian-era Arts and Crafts residence. Designed by architect Edmund John Boughen (1874-1967), he built this grand house at a cost of $4,000.",
+				"catname" : "Heritage",
+				"X" : "-122.9232459109768",
+				"Y" : "49.20643115229236"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91579936915163, 49.20515312966291 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Galbraith House",
+				"Address" : "131 Eighth Street",
+				"Descriptn" : "The Galbraith House is a two and one-half storey Queen Anne Revival residence, with a distinctive square corner tower, a wraparound verandah and elaborate exterior and interior millwork. It is located on a prominent sloping site at the corner of Queen's Avenue at Eighth Street, overlooking the City of New Westminster and the Fraser River. The property is surrounded by a granite wall added in the Edwardian era, which contributes to the stately appearance of the property. It is part of a group of large stately homes which still survive in the Brow of the Hill neighbourhood within a context of more recent, medium density apartment blocks. Built circa 1892, the Galbraith House is valued as one of New Westminster's finest examples of the Queen Anne Revival style. Popular during the late Victorian era, this style was characterized by asymmetrical, picturesque massing and rooflines, and elaborate surface articulation with a variety of cladding textures including shingles and siding. The design of this house, with its prominent corner turret with an iron finial, hipped roof with lower cross gables and wraparound verandah, was inspired by a design by New York architect H. Hudson Holly, found in a popular pattern book, \"Detail, Cottage and Constructive Architecture\", printed by New York publisher, William T. Comstock in 1886. The use of a pattern book design demonstrates the evolution of popular architectural tastes and the wide influence of these standardized plan books on vernacular architecture.",
+				"id" : "169",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1L7",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/131%20Eighth%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built circa 1892, the Galbraith House is valued as one of New Westminster's finest examples of the Queen Anne Revival style.",
+				"catname" : "Heritage",
+				"X" : "-122.91579936915163",
+				"Y" : "49.20515312966291"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91590981410222, 49.20580087144163 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Gilley Residence",
+				"Address" : "725 Queens Avenue",
+				"Descriptn" : "The Gilley Residence is comprised of a large residence, incorporating portions of two earlier buildings, and an associated garage and landscape features, located on single residential lot at 725 Queen's Avenue, New Westminster. The Gilley Residence is significant for its unusual construction history. A 1912 renovation amalgamated portions of two adjacent, earlier houses, the circa 1890 Herbert Gilley House and the 1888 wing of the John Hendry mansion, \"Hillcroft\". Substantial portions of these two houses were relocated and joined through the use of a consistent new roofline and a new central entry. Despite the different styles of the two earlier houses, the resulting composition is remarkably harmonious, employing Classical Revival elements to visually unite the ornate and varied detailing.  Additionally, the Gilley Residence is valued for its associated with Herbert Gilley (1862-1941), who owned the original circa 1890 Queen Anne portion of the building, and subdivided the former Hendry estate to move his home from the adjacent property and sell the other lots as a high-class subdivision in 1912. Gilley was a partner, with his brother, Walter R. Gilley, in Gilley Bros., a successful lumber and cartage company. Gilley Street in New Westminster was named after the brothers. The Gilley Residence is significant both for the design of the 1912 renovation and for the surviving Queen Anne and Victorian Italianate architecture of the two earlier houses. The architect for the 1912 renovations was Edmund John Boughen (1874-1967).",
+				"id" : "170",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1L7",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/725%20Queens%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "The Gilley Residence is significant for its unusual construction history. A 1912 renovation amalgamated portions of two adjacent, earlier houses, the circa 1890 Herbert Gilley House and the 1888 wing of the John Hendry mansion, \"Hillcroft\".",
+				"catname" : "Heritage",
+				"X" : "-122.91590981410222",
+				"Y" : "49.20580087144163"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91334419592283, 49.21493369063652 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Goodfellow House",
+				"Address" : "215 Fifth Avenue",
+				"Descriptn" : "The Goodfellow House is a one-and-one-half storey, Edwardian-era dwelling with a front-gabled roof and a full-width open verandah supported by tapered piers. The house is situated on the north side of Fifth Avenue in the historic Queen’s Park neighbourhood in New Westminster. Built in 1911, the Goodfellow House is significant for its connection with the Edwardian-era development of the historic Queen’s Park neighbourhood, the most affluent and desirable residential area of New Westminster. The historic character of Queen’s Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping. Furthermore, the Goodfellow House is significant for its history of ownership that is typical of the type of speculative development that was common in the years prior to the outbreak of the First World War. It is a fine example of Edwardian-era design, in particular by its front-gabled roof with shed dormers and full-width open verandah.",
+				"id" : "171",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2L9",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/215%20Fifth%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built in 1911, the Goodfellow House is significant for its connection with the Edwardian-era development of the historic Queen' s Park neighbourhood, the most affluent and desirable residential area of New Westminster.",
+				"catname" : "Heritage",
+				"X" : "-122.91334419592283",
+				"Y" : "49.21493369063652"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91629628707088, 49.20558976270512 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Hainsworth Residence",
+				"Address" : "729 Queens Avenue",
+				"Descriptn" : "The Hainsworth Residence is a one-and-one-half storey, Arts and Crafts-style wood-frame residence located on the north side of Queen’s Avenue in the historic Uptown neighbourhood of New Westminster. The house features a cross-gabled roof, extensive half-timbering, and a full-width open front verandah with stone balustrades and piers. Built in 1912-1913, for John Slater and Martha Ann Hainsworth, the Hainsworth Residence is significant as a fine example of the Arts and Crafts aesthetic, designed by architect James Boulton Whitburn (1882-1931). Born in Surrey, England in 1882, Whitburn worked in New Westminster from the time of his arrival in Canada circa 1912 until his death. His practice consisted mainly of residential commissions heavily influenced by the Arts and Crafts movement. Typical of the style, this house features a variety of claddings including stone foundations, shingle siding and extensive half-timbering in the gable ends. Notably, this house was among the first outside of California to utilize a stucco over wire-mesh technique, rather than the standard stucco over wooden lath. Local contractors, Disney & Tucker, a partnership of builders Harold Disney (1866-1931) and Bertram Ewart Tucker (1886-1962), were responsible for the construction of this home at a cost of $4,500. Furthermore, this historic dwelling is valued as a representation of the type of middle-class housing built in the Uptown neighbourhood of New Westminster during the Edwardian-era boom. The development of the Uptown neighbourhood was linked with New Westminster’s role as the commercial and business centre of the Fraser Valley.",
+				"id" : "173",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1L7",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/729%20Queens%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built in 1912-1913, for John Slater and Martha Ann Hainsworth, the Hainsworth Residence is significant as a fine example of the Arts and Crafts aesthetic, designed by architect James Boulton Whitburn (1882-1931).",
+				"catname" : "Heritage",
+				"X" : "-122.91629628707088",
+				"Y" : "49.20558976270512"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92838799678344, 49.21042836402097 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Hennessey Residence",
+				"Address" : "626 Tenth Street",
+				"Descriptn" : "The Hennessey Residence is a one-and-one-half storey, late Victorian-era wood-frame house with a steeply-pitched cross-gabled roof. Later alterations included the application of cedar shingles over the original wooden drop siding. It is situated across the street from Moody Park, on the west side of Tenth Street, in the historic Kelvin/Moody Park neighbourhood in New Westminster.The Hennessey Residence is valued as a representation of New Westminster’s Victorian-era residential development, with subsequent adaptations to suit changing needs and tastes. At the time of its construction, New Westminster was beginning to emerge as an economic and industrial centre. Local growth was facilitated by the completion of the Canadian Pacific Railway spur line in 1886 and the Westminster & Vancouver Tramway in 1891, which linked Vancouver to New Westminster. This house, one of the earliest in this neighbourhood, was built in 1890 for Alexander M. Hennessey, who worked as a boot and shoemaker on Columbia Street. The site was relatively remote from downtown, but was desirable due to its location across from Moody Square (now Moody Park), and for its panoramic views south to the Fraser River. Hennessey and his family of six occupied the house until 1894; he died at the age of 70 in 1902. During the Edwardian era, New Westminster was the major centre of commerce and industrial output for the Fraser Valley, reflected in a boom in residential construction. By 1909, the house had been renovated for new owners, Bryan M. Farley (1845-1925), a retired farmer.",
+				"id" : "174",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 3Z7",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/626%20Tenth%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The Hennessey Residence is valued as a representation of New Westminster's Victorian-era residential development, with subsequent adaptations to suit changing needs and tastes. At the time of its construction, New Westminster was beginning to emerge as an economic and industrial centre.",
+				"catname" : "Heritage",
+				"X" : "-122.92838799678344",
+				"Y" : "49.21042836402097"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90855360535777, 49.211756910965015 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Henry and Marion Hoy House",
+				"Address" : "202 Third Avenue",
+				"Descriptn" : "The Henry & Marion Hoy Residence, located on a corner lot at Third Avenue and Second Street in the Queen’s Park neighbourhood in New Westminster, is a two-and-one-half storey, Edwardian-era wood-frame Foursquare house. It features a hipped roof with front and side dormers, and a partial-width front verandah with a hipped roof. The Henry & Marion Hoy Residence is significant for its Edwardian-era architecture, its contribution to the character of the Queen’s Park neighbourhood, and its associations with first owners, Henry Hoy (1845-1931) and his wife Marion Hoy (née Bonson, 1860-1943). Henry, a well-known contractor who constructed many fine houses in New Westminster, built the first house on this site the year of his marriage. After that house was destroyed by fire, this house was built in 1907, likely by Hoy himself. Henry Hoy was prominent in the New Westminster community, serving several terms on Council and a term as Mayor in 1894. The Hoys still lived here at the time of Henry's death in 1931, after he was struck by an automobile. This house is further valued as an excellent example of Edwardian-era residential architecture. It reflects the influence of the Classical Revival style, as evident in the symmetrical proportions and a pediment over the front door. At the time, the Foursquare plan was becoming popular for urban houses, as a practical expression of domestic needs.",
+				"id" : "176",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1M1",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/202%20Third%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "The Henry & Marion Hoy Residence is significant for its Edwardian-era architecture, its contribution to the character of the Queen's Park neighbourhood, and its associations with first owners, Henry Hoy (1845-1931) and his wife Marion Hoy (nee Bonson, 1860-1943).",
+				"catname" : "Heritage",
+				"X" : "-122.90855360535777",
+				"Y" : "49.211756910965015"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9283055784674, 49.20956476518437 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Humphrey Jones Residence",
+				"Address" : "1016 Nanaimo Street",
+				"Descriptn" : "Situated on the south side of Nanaimo Street in the historic West End neighbourhood in New Westminster, the Humphrey Jones Residence is a vernacular, two-storey wood-frame Victorian-era dwelling. This house features a full-width open verandah with lathe-turned columns that support a hipped roof. Built in 1891, the Humphrey Jones Residence is valued for its association with the earliest, Victorian-era development of the West End in New Westminster. The Humphrey Jones Residence is additionally significant as a representative example of vernacular working-class housing, typical of the late Victorian era.",
+				"id" : "178",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 3Z7",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/1016%20Nanaimo%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built in 1891, the Humphrey Jones Residence is valued for its association with the earliest, Victorian-era development of the West End in New Westminster. as a representative example of vernacular working-class housing, typical of the late Victorian era.",
+				"catname" : "Heritage",
+				"X" : "-122.9283055784674",
+				"Y" : "49.20956476518437"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91190341751636, 49.207133686483076 ]
+			},
+			"properties" : {
+				"email" : "president@royal-westies-assn.ca",
+				"phone" : "",
+				"Name" : "The Royal Westminster Regiment Museum",
+				"Address" : "530 Queens Avenue",
+				"Descriptn" : "We are housed in the oldest wooden Armoury in Canada.  Opened in 1895. The museum is in the old \"Gun room\" where there is a collection of uniforms, medals & pictures.  We are open on Tuesdays and Thursdays from 11:00am to 3:00pm and by appointment.",
+				"id" : "179",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1K3",
+				"fax" : "",
+				"website" : "http://www.royal-westies-assn.ca",
+				"social_networks" : "-1",
+				"summary" : "The Museum  has a collection of items relating to the History and Heritage of The Royal Westminster Regiment & its antecedents.",
+				"catname" : "Heritage",
+				"X" : "-122.91190341751636",
+				"Y" : "49.207133686483076"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90647105264144, 49.207763583650795 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Irving House",
+				"Address" : "302 Royal Avenue",
+				"Descriptn" : "Irving House is a direct link to the earliest pioneer development of New Westminster. It dates from the time of the first development of civilian structures in the new community. Completed in April, 1865, it is one of the oldest extant buildings in the province.",
+				"id" : "195",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1H7",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/302%20Royal%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "Irving House is a direct link to the earliest pioneer development of New Westminster. It dates from the time of the first development of civilian structures in the new community. Completed in April, 1865, it is one of the oldest extant buildings in the province.",
+				"catname" : "Heritage",
+				"X" : "-122.90647105264144",
+				"Y" : "49.207763583650795"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91331766937155, 49.20850878740875 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Isabella McPherson Residence",
+				"Address" : "513 St. George Street",
+				"Descriptn" : "The Isabella McPherson Residence is situated on the north side of St. George Street in the historic neighbourhood of Queen’s Park, in New Westminster. It consists of a large two-and-one-half storey, wood-frame, front-gabled house, with fish-scale shingles in the gable peak, wooden drop siding, and a full-width open front verandah. The Isabella McPherson House, built in 1892, is valued for its association with the earliest development of the historic Queen’s Park neighbourhood. The historic character of Queen’s Park is based on its consistent streetscapes of fine restored homes. Symmetrical in form, this house is also significant as an example of vernacular late Victorian-era housing stock, featuring modest details, such as fish-scale shingling in the gable peak. This house was originally associated with the McPherson family.",
+				"id" : "197",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2T9",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The Isabella McPherson House, built in 1892, is valued for its association with the earliest development of the historic Queen's Park neighbourhood. The historic character of Queen's Park is based on its consistent streetscapes of fine restored homes.",
+				"catname" : "Heritage",
+				"X" : "-122.91331766937155",
+				"Y" : "49.20850878740875"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91011536543706, 49.2089471091149 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "James & Elizabeth Phillips Residence #1",
+				"Address" : "321 Queens Avenue",
+				"Descriptn" : "The James & Elizabeth Phillips Residence #1 is a one-and-one-half storey, wood-frame front-gabled late Victorian-era dwelling, situated on the north side of Queens Avenue in the historic Queen's Park neighbourhood in New Westminster. The house features a full-width open verandah, shingle patterning in the gable peak and a semi-octagonal front projecting bay.The James & Elizabeth Phillips Residence #1 is valued for its association with the early stages of the Victorian-era development of Queen's Park. The historic character of Queen's Park is based on its consistent streetscapes of fine restored homes. Built in 1892, the James & Elizabeth Phillips Residence #1 is further valued as a significant residential design by architect George William Grant (1852-1925). Grant had a prolific career in both New Westminster and Vancouver. Grant was responsible for some of the city's major landmarks, including the Queen's Hotel on Columbia Street (1887), the Masonic and Odd Fellows Halls and the spectacular mansion, Hillcroft (1886). He also contributed to a number of public structures such as major additions to the Provincial Asylum Building (1889); the first Provincial Exhibition Building in Queen's Park (1889); the Provincial Court House (1891); and the City Library (1891). Simple in its design and scale, this house is a testament to Grant's versatility as an architect. His commissions ranged from simple cottages, to elaborate Queen Anne mansions, to large public institutions. This house was constructed by local contractor O.B. Ackerman at a cost of $3,000.",
+				"id" : "198",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1K1",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/321%20Queens%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "The James & Elizabeth Phillips Residence #1 is valued for its association with the early stages of the Victorian-era development of Queen's Park. The historic character of Queen's Park is based on its consistent streetscapes of fine restored homes.",
+				"catname" : "Heritage",
+				"X" : "-122.91011536543706",
+				"Y" : "49.2089471091149"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91027512485316, 49.208861778061085 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "James & Elizabeth Phillips Residence #2",
+				"Address" : "323 Queens Avenue",
+				"Descriptn" : "The James & Elizabeth Phillips Residence #2 at 323 Queens Avenue is situated at the corner of Queens Avenue and Fourth Street, in the historic neighbourhood of Queen's Park in New Westminster. It consists of a one-and-one-half storey, wood-frame Queen Anne Revival-style house with multi-pitched rooflines, wraparound verandah, tall corbelled brick chimney, and stained glass windows.The James & Elizabeth Phillips Residence #2 is valued for its association with the early stages of the Victorian-era development of Queen's Park. The historic character of Queen's Park is based on its consistent streetscapes of fine restored homes. Built in 1892, the James & Elizabeth Phillips Residence #2 is further valued as a significant example of the Queen Anne Revival style of the late Victorian era, characterized by its picturesque massing and complex rooflines, with a variety of cladding textures including lapped siding, fish-scale and diamond shingles, and sandstone foundations, which provide elaborate surface articulation. Its' design has been attributed to prolific local architect George William Grant (1852-1925), as he designed the adjacent houses in the previous year. The clients were James Edward Phillips (born 1860) and his wife Elizabeth Mowat Phillips (née Wilson, 1871-1962). English-born James Phillips operated a well-established Gentleman's Clothing business in New Westminster; his store was originally located on Columbia Street, but following the great fire of 1898, the business was relocated to McKenzie Street. The couple married in 1892 in Victoria, Elizabeth's home town, and they occupied the house at 321 Queens Avenue for only a brief period.",
+				"id" : "199",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1K1",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The James & Elizabeth Phillips Residence #2 is valued for its association with the early stages of the Victorian-era development of Queen's Park. The historic character of Queen's Park is based on its consistent streetscapes of fine restored homes.",
+				"catname" : "Heritage",
+				"X" : "-122.91027512485316",
+				"Y" : "49.208861778061085"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93860266179624, 49.20967864097481 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "James & Margaret Whitelaw House",
+				"Address" : "1401 Edinburgh Street",
+				"Descriptn" : "Situated at the corner of Edinburgh and Fourteenth Streets in New Westminster’s historic West End neighbourhood, the James & Margaret Whitelaw House is a picturesque Craftsman bungalow. This dwelling is distinguished by its hipped roof with front-gabled projection, half-timbering in the gable peak, and tapered porch columns.Constructed in 1925, the James & Margaret Whitelaw House is significant as an example of a late Craftsman bungalow, exemplified by its tapered square porch columns and half-timbering in the gable peaks. The Craftsman style was popularized through periodicals and plan books, expressing both the traditional aspects of the Arts and Crafts movement as well as modern lifestyles. Efficient, rational floor plans, where small rooms were situated around central living rooms, reflected the reality that most families, especially after the end of the First World War, could no longer afford domestic help. This house was constructed by the Lane Brothers contracting company at a cost of $3,000. Further value is attained through this historic house’s association with the ongoing development of the West End neighbourhood in New Westminster. Initial stages of development began in the late 1880s with the subdivision of what was mainly pioneer land, consisting of bush and orchards. Development continued swiftly until the end of the Edwardian-era building boom. During the period between the two world wars, development continued with construction of many single-family dwellings. The James & Margaret Whitelaw House is typical of middle-class housing in the West End.",
+				"id" : "200",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 2W5",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Constructed in 1925, the James & Margaret Whitelaw House is significant as an example of a late Craftsman bungalow, exemplified by its tapered square porch columns and half-timbering in the gable peaks.",
+				"catname" : "Heritage",
+				"X" : "-122.93860266179624",
+				"Y" : "49.20967864097481"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.911793958068, 49.21319417884902 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "James B. Whitburn Residence",
+				"Address" : "217 Fourth Avenue",
+				"Descriptn" : "The James B. Whitburn Residence is a one-and-one-half storey, wood-frame British Arts and Crafts house located on the north side of Fourth Avenue in the Queen's Park neighbourhood in New Westminster. It features stucco cladding, two projecting front gables, decorative half-timbering and the consistent use of leaded casement windows. This residence is valued for its association with its architect and first owner, James Boulton Whitburn. Whitburn’s first known commission in B.C. was the design for a welcome arch erected in Burnaby for the 1912 vice-regal visit of the Duke and Duchess of Connaught. In June 1913, he opened an office in New Westminster, but given the downturn in the economy, his practice consisted mainly of residential projects. In the late 1920s, he received some substantial commissions, notably Trapp Technical School (later John Robson School), 1928, and Richard McBride School, 1929, both in New Westminster. \\r\\n\\r\\nWhitburn’s own house, built in 1927, demonstrates his affinity and his training in the British Arts and Crafts tradition. The modest scale and historical elements impart a storybook cottage character to the Whitburn Residence. In North America, the 1920s were a time of entrenched traditionalism in residential architecture, harkening back to the domestic values and ideals of an earlier age. It was considered the height of good taste at the time for houses to conform to a recognizable historical appearance. Additional significance is derived from the second owners of the house, Reverend Canon Frank Plaskett and his wife Mary Plaskett (née Draper, 1885-1976).",
+				"id" : "202",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2V1",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/217%20Fourth%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "This residence is valued for its association with its architect and first owner, James Boulton Whitburn. Whitburn's first known commission in B.C. was the design for a welcome arch erected in Burnaby for the 1912 vice-regal visit of the Duke and Duchess of Connaught.",
+				"catname" : "Heritage",
+				"X" : "-122.911793958068",
+				"Y" : "49.21319417884902"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93842591729539, 49.211387651524404 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "John & Annie Chamberlain Residence",
+				"Address" : "914 Thirteenth Street",
+				"Descriptn" : "Located on in the historic West End of New Westminster, the John & Annie Chamberlain Residence is a one-and-one-half storey cottage that demonstrates a Storybook Cottage influence. This house is notable for its high-pitched roofline, with a catslide extension over the inset entry porch. Built in 1910-11 and altered in subsequent renovations in 1937 and 1941, the John & Annie Chamberlain Residence is valued as a picturesque example of a Storybook Cottage residence. During the years between the two world wars, domestic styles in North America were resolutely historicist. In order to display good taste, it was expected that a house would have an identifiable period revival style. As economics dictated that houses of the time were generally modest, they often assumed a cottage appearance that provided a romantic ideal of traditional domesticity, harkening back to the values and ideals of an earlier age. The American Sesquicentennial in 1926 reinforced this historicist trend, and the most popular Hollywood movies of the time were swashbuckling costume dramas. This romantic influence is demonstrated in the asymmetrical roofline, which swoops in a 'catslide' over the front entry, multi-paned windows and rustic materials. The first owners of the house were John B. Chamberlain (1832-1956) and his wife Annie (1883-1944). Originally from St. Norbert, Manitoba, John was employed as a mechanic with the British Columbia Electric Railway Company. The Chamberlains had five children before moving in 1915. The house was acquired by the Denchel family, then in 1921 by Frederick and Margaret Spooner.",
+				"id" : "203",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 5Z7",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/914%20Thirteenth%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built in 1910-11 and altered in subsequent renovations in 1937 and 1941, the John & Annie Chamberlain Residence is valued as a picturesque example of a Storybook Cottage residence. During the years between the two world wars, domestic styles in North America were resolutely historicist.",
+				"catname" : "Heritage",
+				"X" : "-122.93842591729539",
+				"Y" : "49.211387651524404"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92049947801992, 49.206721641685284 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "John A. McGuffin Residence",
+				"Address" : "822 Kennedy Street",
+				"Descriptn" : "The John A. McGuffin Residence is a one-storey, wood-frame Arts and Crafts-style bungalow with lapped siding and an internal red-brick chimney. It is situated on the north side of Kennedy Street in the historic Brow of the Hill neighbourhood in New Westminster.Constructed in 1911, the John A. McGuffin Residence is valued for its association with Brow of the Hill’s Edwardian-era development. This house is additionally significant as a typical example of speculative-built rental housing, constructed during a time of rapid residential development. This house was built by local contractors and brothers, Robert Lane (1858-1947) and William Lane (1866-1928). It was then sold to John A. McGuffin (1870-1966). In 2001, this house was protected through a Heritage Revitalization Agreement that enabled subdivision of the property and relocation of the house.",
+				"id" : "204",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 3V7",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/822%20Kennedy%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Constructed in 1911, the John A. McGuffin Residence is valued for its association with Brow of the Hill's Edwardian-era development.",
+				"catname" : "Heritage",
+				"X" : "-122.92049947801992",
+				"Y" : "49.206721641685284"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90497780510321, 49.20657048843751 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Maria Keary Cottage 1",
+				"Address" : "305 Carnarvon Street",
+				"Descriptn" : "The Maria Keary Cottage 1 at 305 Carnarvon Street is a modest asymmetrical one and one-half storey wood-frame Queen Anne Revival residence, with corner entrance and porch. It is located in the New Westminster neighbourhood of Albert Crescent, next to what was originally a mirror-image cottage built at the same time. The twin Maria Keary Cottages (Maria Keary Cottages 1 and 2) are valued as unique examples of early purpose-built rental accommodation, likely the oldest such examples in mainland British Columbia, and illustrate the origins and evolution of local residential design. The historic value of these two cottages is further enhanced as they are among the few extant buildings that survived the Great Fire of 1898, which destroyed much of downtown New Westminster. Furthermore, these twin cottages provide a rare surviving demonstration of the entrepreneurial spirit of pioneer women, an often overlooked aspect of early community settlement. Maria Keary (1824-1911) was an Irish immigrant who arrived in New Westminster in 1860 to join her husband, James Keary, a Royal Engineer. Widowed in 1871, Maria supported her family by running the family home as a boarding house. To further supplement her income, in 1887 she purchased a lot and financed the construction of these two cottages as rental properties. Additionally, these cottages are valued for their association with architect Samuel Maclure, a New Westminster native who was an influential Arts and Crafts proponent in Victoria and in the Lower Mainland.",
+				"id" : "207",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2P6",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/305%20Carnarvon%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The twin Maria Keary Cottages (Maria Keary Cottages 1 and 2) are valued as unique examples of early purpose-built rental accommodation, likely the oldest such examples in mainland British Columbia, and illustrate the origins and evolution of local residential design.",
+				"catname" : "Heritage",
+				"X" : "-122.90497780510321",
+				"Y" : "49.20657048843751"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91870975180201, 49.205047271044734 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "McClughan Residence",
+				"Address" : "219 Nineth Street",
+				"Descriptn" : "The McClughan Residence is a two-storey house located on the east side of Ninth Street in the Brow of the Hill neighbourhood in New Westminster. Distinctive for its tall, gabled second floor, this house features modest Craftsman elements, such as triangular brackets and half-timbering in the gable peaks. Constructed at the height of the local building boom in 1911, the McClughan Residence is a testament to the Edwardian-era development of the Brow of the Hill neighbourhood. Initially conceived by Colonel Moody as a neighbourhood for the working classes, Brow of the Hill is characterized by its steep topography and expansive views of the Fraser River. The neighbourhood began to develop in the late 1880s with the construction of modest homes, attracting buyers who worked downtown. The sustained industrial and business activity in New Westminster’s core continued to spur residential development during the Edwardian era. During the First World War, the area was home to many factory workers employed in the North Arm waterfront area. The first owners of this vernacular house were the McClughan family. John Carr McClughan (1875-1920) was a plumber, and partner in James & McClughan, Plumbing & Heating Contractors. Born in Ontario, John married Mary Mae Flumerfelt in 1902. John designed the house, built originally as a 'Bungalow Residence.' Changes in family needs led in 1913-1916 to the partial closing of the front verandah, the addition of a second storey and sleeping porch, and the addition of a basement garage.",
+				"id" : "209",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 3V6",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/219%20Ninth%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Constructed at the height of the local building boom in 1911, the McClughan Residence is a testament to the Edwardian-era development of the Brow of the Hill neighbourhood.",
+				"catname" : "Heritage",
+				"X" : "-122.91870975180201",
+				"Y" : "49.205047271044734"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91267556380141, 49.20110292528153 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "McLennan, McFeely and Prior Building",
+				"Address" : "811 Columbia Street",
+				"Descriptn" : "The McLennan, McFeely and Prior Building is a three-storey concrete Streamline Moderne commercial building, situated on a corner lot on the north side of Columbia Street between Alexander and Eighth Streets in New Westminster's historic downtown core. The McLennan, McFeely and Prior Building is significant for its contribution to the consistent and distinctive built form of Columbia Street, which dates from the time when New Westminster was the major centre of commerce and industrial output for the Fraser Valley area. Its construction at the end of the 1930s was an indication of the return of confidence and prosperity after the lean years of the Great Depression. First established in Victoria, McLennan, McFeely and Prior grew into one of the largest hardware and building supply importers and distributors in the province, indicating the growth of the local supply network that capitalized on rapid settlement in British Columbia. The company's branch outlets were serviced from their enormous warehouse in Vancouver, demonstrating the development of centralized distribution networks that serviced communities throughout the province.Furthermore, the McLennan, McFeely and Prior Building is valued as an excellent example of the Streamline Moderne style. Part of a movement of architecture in the inter-war period, it heralded the new machine age that embraced technology and all things modern. The Streamline Moderne style was distinguished by long horizontal lines implying speed and aerodynamics. The smooth planar surfaces, rounded corners and geometric patterning demonstrate the development of a new architecture that rejected historical ornamentation that favoured  modern expression.",
+				"id" : "210",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1B9",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/811%20Columbia%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The McLennan, McFeely and Prior Building is significant for its contribution to the consistent and distinctive built form of Columbia Street, which dates from the time when New Westminster was the major centre of commerce and industrial output for the Fraser Valley area.",
+				"catname" : "Heritage",
+				"X" : "-122.91267556380141",
+				"Y" : "49.20110292528153"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91777352081523, 49.20551211493386 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "McNeely House",
+				"Address" : "807 Milton Street",
+				"Descriptn" : "The McNeely House is a two-storey, wood-frame late Victorian-era house situated on the west side of Milton Street in the historic Brow of the Hill neighbourhood of New Westminster. It is distinctive for its jerkin-headed roofline, full width-open front verandah and decorative half-timbering.Constructed circa 1892-93, the McNeely House is significant for its associations with the McNeely family. Thomas McNeely (1839-1900) was one of New Westminster’s most prominent contractors. Born in Ontario, he came to New Westminster in 1880, where he began his trade as a builder. McNeely was involved in several business ventures across Greater Vancouver. He was responsible for constructing the Dominion Saw Mills and other mills at Port Moody and Hastings, started a hotel and grocery store in Ladner, and was a successful real estate developer. Around 1887, he purchased this lot and the neighbouring lot, and built rental houses on both properties. In 1893, he married Annie Chisholm (1840-1929). In 1925, this house was sold to sea captain Thomas Henry Hirst (1886-1958) and his wife, Annie Elizabeth (née Ramsden, 1887-1944). The couple were responsible for a number of renovations, illustrating the house’s adaptation to changing functions and residential styles. These alterations included the addition of a new concrete foundation and full-width verandah, and a jerkin-headed roof and half-timbering that reflected the popular Period Revival styles of the 1920s. After Annie died in 1944, Thomas continued to occupy the house until his own death in 1958.",
+				"id" : "211",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 3P8",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/807%20Milton%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Constructed circa 1892-93, the McNeely House is significant for its associations with the McNeely family. Thomas McNeely (1839-1900) was one of New Westminster's most prominent contractors.",
+				"catname" : "Heritage",
+				"X" : "-122.91777352081523",
+				"Y" : "49.20551211493386"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92151458647571, 49.204669159688606 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Moir Residence",
+				"Address" : "1010 Third Avenue",
+				"Descriptn" : "Situated on the south side of Third Avenue in the historic Brow of the Hill neighbourhood in New Westminster, the Moir Residence is a two-storey, wood-frame Edwardian-era Foursquare house, characterized by its bellcast hipped roof, full-width open front verandah and multi-paned windows. It is part of a streetscape of compatible historic houses.The Moir Residence is significant for its association with the Edwardian-era development of the Brow of the Hill neighbourhood. Built in 1915 for Robert A. and Jane Moir, the house is unusual for its date of wartime construction, that demonstrates the boom in the food supply industries that occurred during the First World War. Rising food costs brought an unexpected prosperity to many farmers and fishermen.",
+				"id" : "212",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1P6",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/1010%20Third%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built in 1915 for Robert A. and Jane Moir, the house is unusual for its date of wartime construction, that demonstrates the boom in the food supply industries that occurred during the First World War. Rising food costs brought an unexpected prosperity to many farmers and fishermen.",
+				"catname" : "Heritage",
+				"X" : "-122.92151458647571",
+				"Y" : "49.204669159688606"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90569243746802, 49.20618427644037 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "New St. Andrew's Presbyterian Church",
+				"Address" : "321 Carnarvon Street",
+				"Descriptn" : "New St. Andrew's Presbyterian Church is a large red brick Victorian Gothic Revival church with a square corner tower and a partial lower level, on Carnarvon Street adjacent to its Carpenter Gothic predecessor, Old St. Andrew's Presbyterian Church. It is located in the neighbourhood of Albert Crescent, near New Westminster's historic downtown core. Built in 1888-89, the New St. Andrew's Presbyterian Church is associated with the expansion of Old St. Andrew's Presbyterian Church, which sits adjacent to this more recent building. The original St. Andrew's Presbyterian Church was the first Presbyterian church to be built in the Mainland Colony of British Columbia, and reflects the faith of the Royal Engineers who settled in the city after their disbandment in 1863. Both churches are significant for having survived the Great Fire of 1898, which devastated much of downtown New Westminster. The growing congregation necessitated the construction of this larger new church in 1888-89, and in 1922 the original church was raised and remodelled for use as a church hall and Sunday school. The New St. Andrew's Presbyterian Church is of architectural significance as a fine representative of the Victorian Gothic Revival style. The interior is particularly noteworthy - a soaring space with Douglas Fir hammer beams connected by tension bars, native cedar wood-lined ceiling and a stained-glass rose window that forms a backdrop for the organ. At the west end is a gallery with a carved wooden balustrade.",
+				"id" : "213",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2P6",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/321%20Carnarvon%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built in 1888-89, the New St. Andrew's Presbyterian Church is associated with the expansion of Old St. Andrew's Presbyterian Church, which sits adjacent to this more recent building.",
+				"catname" : "Heritage",
+				"X" : "-122.90569243746802",
+				"Y" : "49.20618427644037"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90958130926506, 49.20347755282677 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "New Westminster Courthouse",
+				"Address" : "632 Carnarvon Street",
+				"Descriptn" : "The New Westminster Courthouse is a large three-storey red brick and stone Romanesque Revival building. It occupies a commanding hillside site and is a visually dominating presence on Carnarvon Street. The New Westminster Courthouse is symbolic of the administration of justice during the province's early years. As the first capital of British Columbia and a prominent commercial centre, New Westminster was vital in the establishment of order in the colony, and remained an important administrative centre. In 1860, the first court house was erected, a one-storey building with a canvas ceiling. This was replaced by a new structure in Market Square in 1873. In 1890-91, this imposing new brick and stone court house was built, located uphill from the city's commercial centre. In 1891, it was opened at the Spring Assizes with due ceremony by Sir Matthew Baillie Begbie, B.C.'s first judge and first Chief Justice. The interior of the courthouse was destroyed in the Great Fire of 1898 but the building was reconstructed in 1899 to the same general plan. The New Westminster Courthouse is valued as one of the most significant institutional projects designed by George William Grant (1852-1925), a prolific architect who designed many of the buildings in downtown New Westminster, both before and after the Great Fire in 1898.",
+				"id" : "215",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1E3",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/632%20Carnarvon%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The New Westminster Courthouse is symbolic of the administration of justice during the province's early years. As the first capital of British Columbia and a prominent commercial centre, New Westminster was vital in the establishment of order in the colony, and remained an important administrative centre.",
+				"catname" : "Heritage",
+				"X" : "-122.90958130926506",
+				"Y" : "49.20347755282677"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91451985865223, 49.212483351941195 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Newton Residence",
+				"Address" : "416 Oak Street",
+				"Descriptn" : "The Newton Residence is a one-storey, wood-frame Victoria-era residence on the west side of Oak Street in the historic Queen’s Park neighbourhood in New Westminster. Originally a two-storey house, the top floor was removed in 1986. The Newton Residence is valued as a representation of New Westminster’s Victorian-era residential development and subsequent adaptations to suit changing owners and situations. At the time of its construction, New Westminster was beginning to emerge as an economic and industrial centre. Local growth was facilitated by the completion of the Westminster & Vancouver Tramway in 1891, which linked Vancouver to New Westminster. The house was built circa 1892 for E. Newton, and is an example of the housing built for those residents who worked in the rapidly-developing downtown. By 1939, the house was owned by Francis William Purvis (1887-1981), a retail clerk at M.J. Phillips, a local gentleman’s clothing store, who resided briefly in the house while his new home was being built at the back of the lot facing Fourth Street. It was intended that this house would be demolished, but it was retained, and objections from neighbours led to the demolition of its second storey in 1986.",
+				"id" : "216",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1R6",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/416%20Oak%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The Newton Residence is valued as a representation of New Westminster's Victorian-era residential development and subsequent adaptations to suit changing owners and situations.",
+				"catname" : "Heritage",
+				"X" : "-122.91451985865223",
+				"Y" : "49.212483351941195"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90881221106041, 49.20225808499196 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Paramount Theatre",
+				"Address" : "652 Columbia Street",
+				"Descriptn" : "The Paramount Theatre is a modest motion picture theatre building with prominent marquee and neon Paramount signage. Built on the steep slope of the south side of Columbia Street, the main commercial street in New Westminster's historic downtown core, it has a two storey form on the front facade, with three storeys at the rear. The Paramount Theatre is historically important as one of the oldest surviving motion picture theatre buildings in B.C. Established in 1903 by Frank Kerr, the Edison Theatre moved into the western half of the 1899 Dupont Block in 1910. It was common at this time to convert existing spaces into theatres rather than construct new buildings specifically for that use, as there was concern that the movies would prove to be a passing fad. In 1948 the theatre was leased to Paramount-Famous Players, who completed interior and exterior renovations, including a new neon sign with the name Paramount Theatre. The front facade recalls a period when New Westminster's downtown was still a regional commercial, retail and entertainment centre, prior to the arrival of the automobile-oriented suburban shopping malls. Downtown areas such as Columbia Street contained all essential services for the expanding population, with movie houses being an essential cultural element. The Paramount Theatre was highly significant to the community, as television was not yet widely available and movies were the main form of public entertainment. Despite its closure as a movie theatre, the Paramount continues to be used for entertainment purposes.",
+				"id" : "219",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1A8",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/652%20Columbia%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The Paramount Theatre is historically important as one of the oldest surviving motion picture theatre buildings in B.C. Established in 1903 by Frank Kerr, the Edison Theatre moved into the western half of the 1899 Dupont Block in 1910.",
+				"catname" : "Heritage",
+				"X" : "-122.90881221106041",
+				"Y" : "49.20225808499196"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91396280588279, 49.21378275692847 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Robert & Mary Cheyne Residence",
+				"Address" : "435 Third Street",
+				"Descriptn" : "The Robert & Mary Cheyne Residence is situated at the corner of Third and Elgin Streets, in the historic Queen’s Park neighbourhood in New Westminster. It is a two-storey, wood-frame Arts and Crafts-style residence with complex multi-pitched rooflines, wraparound verandah at the front, and stained and leaded glass windows. Constructed in 1912, the Robert & Mary Cheyne Residence illustrates the Edwardian-era development of the Queen’s Park neighbourhood. The historic character of Queen’s Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping. The Robert & Mary Cheyne Residence is also significant as a sophisticated example of the influence of the Arts and Crafts Movement on residential architecture. The generous proportions, wide verandah and large windows were considered to be very modern features, that opened up the exterior of the house to nature. The construction cost of $3,200 reflected the superior quality of craftsmanship and materials. It was built for Robert Hodgson Cheyne (1868-1960) and his wife Mary (née Macdonald, 1873-1962). Toronto-born Cheyne was employed as the Deputy Land Registrar in New Westminster",
+				"id" : "220",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2S5",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/435%20Third%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Constructed in 1912, the Robert & Mary Cheyne Residence illustrates the Edwardian-era development of the Queen's Park neighbourhood. The historic character of Queen's Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping.",
+				"catname" : "Heritage",
+				"X" : "-122.91396280588279",
+				"Y" : "49.21378275692847"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90718183274159, 49.20856698683232 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Robson Manor",
+				"Address" : "101Third Street",
+				"Descriptn" : "The Robson Manor was constructed in 1935 for James Goodfellow Robson, owner of the Timberland Lumber Company. It is of the unusual Colonial and Tudor Revival style with a gambrel roof, centre gable, and featuring an impressive porte-cochere all built on a granite rock foundation.",
+				"id" : "221",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2P9",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The Robson Manor was constructed in 1935 for James Goodfellow Robson, owner of the Timberland Lumber Company. It is of the unusual Colonial and Tudor Revival style with a gambrel roof, centre gable, and featuring an impressive porte-cochere all built on a granite rock foundation.",
+				"catname" : "Heritage",
+				"X" : "-122.90718183274159",
+				"Y" : "49.20856698683232"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92530913315078, 49.21608444757765 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Royal City Christian Centre",
+				"Address" : "601Eighth Avenue",
+				"Descriptn" : "The Royal City Christian Centre is a 2,436 square metre British Arts and Crafts style institutional building on a landscaped two hectare lot that includes playing fields and a parking lot. This sprawling one-and-one-half storey wood-frame building, clad with roughcast stucco and distinctive half-timbering, is located at the corner of Eighth Avenue and Sixth Street. The Royal City Christian Centre is of community significance as the historic location of the Loyal Protestant True Blue and Orange Home for Children, an institution founded and funded by the Loyal True Blue Association the Grand Orange Lodge of B.C. and the Ladies' Orange Benevolent Association.  The work of caring for orphaned and neglected children in New Westminster commenced in 1910 after the Loyal True Blue Lodge became aware of the need for their care. In January 1910, the Lodge adopted an orphaned child, and the Grand Lodge of the Loyal True Blue Association formed that year. The children were housed in a private home until 1913, when a house was rented to accommodate the growing numbers. Financial help was provided by many Loyal Orange Lodges throughout western Canada, and in recognition the Loyal Orange Association was given a seat on the True Blue board. By 1925, the institution was renamed the Loyal Protestant True Blue and Orange Home for Children, in recognition of the equal representation from the Loyal True Blue Association, the Grand Orange Lodge of B.C. and the Ladies' Orange Benevolent Association.",
+				"id" : "222",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 2R2",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The Royal City Christian Centre is of community significance as the historic location of the Loyal Protestant True Blue and Orange Home for Children, an institution founded and funded by the Loyal True Blue Association the Grand Orange Lodge of B.C. and the Ladies' Orange Benevolent Association.",
+				"catname" : "Heritage",
+				"X" : "-122.92530913315078",
+				"Y" : "49.21608444757765"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93011305230692, 49.208216187180156 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Shiloh Sixth Avenue United Church",
+				"Address" : "1111 Sixth Avenue",
+				"Descriptn" : "The Sixth Avenue United Church is significant as a community institution and represents the evolution and growth of a Methodist congregation that was first established in New Westminster in 1859.",
+				"id" : "223",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 2B7",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The Sixth Avenue United Church is significant as a community institution and represents the evolution and growth of a Methodist congregation that was first established in New Westminster in 1859.",
+				"catname" : "Heritage",
+				"X" : "-122.93011305230692",
+				"Y" : "49.208216187180156"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91817817520028, 49.205195318101026 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Sidney & Ida Pearce Residence",
+				"Address" : "815 Milton Street",
+				"Descriptn" : "The Sidney & Ida Pearce Residence is a two-storey, wood-frame Queen Anne Revival-style house located at the corner of Milton and Burr Streets in the historic Brow of the Hill neighbourhood in New Westminster. Raised on a tall concrete block foundation, it is distinctive for its multi-pitched rooflines, and two-storey projecting front-gabled bay. The Sidney & Ida Pearce Residence is significant as a representation of Brow of the Hill’s earliest residential development. This house was first owned by Sidney James Pearce (1848-1925). Born in England, Pearce immigrated to British Columbia circa 1886. He was employed as New Westminster’s Chief of Police and later as Health Inspector. He and his wife Ida Mary (née Lee, 1858-1935) occupied this residence from 1889 until they died, after which the family retained ownership. The Sidney & Ida Pearce Residence is additionally valued for its late Victorian-era architecture and subsequent adaptations to suit changing family needs and residential styles. Originally built as a one-storey cottage in 1889, it was raised on a concrete block foundation and a second storey was added circa 1905, denoting the owner’s need for additional space as his finances and his family grew. The Queen Anne Revival style displayed in the alterations is an example of the late persistence of its influence, at a time when public taste was beginning to embrace new and different residential styles.",
+				"id" : "224",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 3V2",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/815%20Milton%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The Sidney & Ida Pearce Residence is significant as a representation of Brow of the Hill's earliest residential development. This house was first owned by Sidney James Pearce (1848-1925).",
+				"catname" : "Heritage",
+				"X" : "-122.91817817520028",
+				"Y" : "49.205195318101026"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91186779238336, 49.20472741775133 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "St. Paul's Reformed Episcopal Church",
+				"Address" : "628 Royal Avenue",
+				"Descriptn" : "St. Paul's Reformed Episcopal Church is a wood-frame late Victorian era church at the corner of Royal Avenue and Seventh Street, near New Westminster's historic downtown core. Its eclectic design is distinguished by a tall square corner bell tower that is a local landmark.  St. Paul's Reformed Episcopal Church is valued for its long-term occupancy of this prominent downtown site. The original church was built in the 1880s and destroyed by the Great Fire of 1898. The present structure was designed as a replica of the original, and has been maintained at this corner site for over a century.  St. Paul's Reformed Episcopal Church is significant as a manifestation of the diversification of religious beliefs of the earlier settlers and the history of religious differences in the Anglican Church. It was dedicated in 1899 by Bishop Edward Cridge (1817-1913), the Hudson's Bay Company Chaplain and first dean of Victoria's Christ Church Cathedral. In 1872, Cridge became embroiled in a theological controversy with the Anglican Church in Victoria over the issue of ritualism. In 1874, the acrimonious conflict ended with Cridge's trial before an ecclesiastical tribunal, where he was found guilty of insubordination, a verdict later upheld by the civil courts. Cridge seceded from the Anglican Church, took the majority of the congregation with him, and founded a new congregation under the auspices of the Church Missionary Society of England.",
+				"id" : "225",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1J2",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/628%20Royal%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "St. Paul's Reformed Episcopal Church is valued for its long-term occupancy of this prominent downtown site. The original church was built in the 1880s and destroyed by the Great Fire of 1898.",
+				"catname" : "Heritage",
+				"X" : "-122.91186779238336",
+				"Y" : "49.20472741775133"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91728624734316, 49.20237240785999 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Telford Block",
+				"Address" : "845 Royal Avenue",
+				"Descriptn" : "The Telford Block is a large three-storey commercial/residential building located on the north side of Royal Avenue between McInnes and Tenth Streets, in the area of New Westminster known as the Brow of the Hill. The Telford Block, built in 1913 for J.M. Telford by contractor N. Dalrymple, is important for its aesthetic and cultural values, and particularly for its historical value in illustrating the rebuilding of the city after the Great Fire of 1898.  The Telford Block is a good typical example of commercial building in the Edwardian era, combining ground floor commercial space with residential accommodation on two floors above. The Block’s planning (the architect is noted on the Building Permit application as Daniel McAuley) allowed for an efficient central stair access to the apartments between two commercial spaces. The restrained detailing, common for standard commercial buildings of the era, employs small flourishes for the ground floor entries and fenestration, on the main face of the building, and at the parapet, for an overall handsome effect. Its brick material is important and valued for being carefully detailed.   The Telford Block’s list of residents over the decades is a valuable cultural record of the New Westminster society over the early decades of the 20th Century, and a record of the co-resident mix of working class and middle class populations, including mostly workers (millworkers, machinists, plumbers, for example), service sector workers (confectioner, attendant at the Provincial Mental Hospital, for example) and white-collar workers (transit dispatcher, for example).",
+				"id" : "226",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1K3",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/845%20Royal%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "The Telford Block, built in 1913 for J.M. Telford by contractor N. Dalrymple, is important for its aesthetic and cultural values, and particularly for its historical value in illustrating the rebuilding of the city after the Great Fire of 1898.",
+				"catname" : "Heritage",
+				"X" : "-122.91728624734316",
+				"Y" : "49.20237240785999"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92135886983404, 49.22061994238464 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Thomas and Elizabeth Turnbull House",
+				"Address" : "217 Nineth Street",
+				"Descriptn" : "The Thomas & Elizabeth Turnbull Residence, located in the historic Brow of the Hill neighbourhood in New Westminster, is a Victorian-era cottage located on a steep hill overlooking the Fraser River, and is distinguished by its full-width front verandah and low-pitched, pyramidal roofline. The Thomas & Elizabeth Turnbull Residence is significant as an example of Brow of the Hill’s earliest residential development, and was the first house to be constructed on Ninth Avenue. The house is additionally significant for its associations with Scottish-born Thomas Turnbull (1860-1939) and his wife, Elizabeth (Lizzie) French Turnbull (née Stoddart, 1866-1958). Thomas was an accomplished carpenter and building contractor who built many fine homes and commercial buildings in the New Westminster area. Thomas embarked upon his impressive contracting career in 1885, which included the construction of numerous buildings throughout New Westminster and the Fraser Valley, many of which have survived to the present day. Turnbull acted as the City Building Inspector for more than ten years, until the position was abolished in 1923. His community involvement included acting as one of the first directors of the New Westminster Labour Temple, supporting trade unions, sitting on the Board of Trustees of the Carnegie Library, and joining the Knights of the Pythias, Lodge No. 6, upon its formation in 1889. Lizzie was also recognized as an honorary member of the Native Day of BC, and for her work with The Women’s Missionary Society of St. Andrew’s Presbyterian Church.",
+				"id" : "227",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 3V6",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/217%20Ninth%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The Thomas & Elizabeth Turnbull Residence is significant as an example of Brow of the Hill's earliest residential development, and was the first house to be constructed on Ninth Street.",
+				"catname" : "Heritage",
+				"X" : "-122.92135886983404",
+				"Y" : "49.22061994238464"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90914371465446, 49.20208068902789 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Trapp Block",
+				"Address" : "668 Columbia Street",
+				"Descriptn" : "The Trapp Block is a wood-frame and masonry warehouse and commercial structure with a distinctive tan terra cotta front facade, located in New Westminster's historic downtown core. It was one of the tallest structures built on the south side of Columbia Street during the Edwardian-era and remains a landmark in the area. The front of the structure is six storeys high on Columbia Street; the rear facade, which faces Front Street, has seven exposed storeys. The heritage value of the Trapp Block is directly associated with the Edwardian-era development of downtown New Westminster, marking a formative period in B.C.'s resource-based economy. After the devastation of the Great Fire of 1898, the downtown was rebuilt immediately and continued to develop during the great western Canadian economic boom that preceded the First World War. The Trapp Block is a landmark structure on Columbia and Front Streets, the city's earliest and most historic area of commercial and institutional buildings. Much of the distinctive built form of Columbia and Front Streets dates from 1898 to 1913, when New Westminster was the major centre of commerce and industry for the booming Fraser Valley area, and served the local resource-based economy.  The Trapp Block is historically significant for its association with the wholesale and retail hardware firm, founded by Thomas and Samuel Trapp in New Westminster in 1880, which by 1914 was one of the largest such firms in Western Canada.",
+				"id" : "228",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1A8",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/668%20Columbia%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The heritage value of the Trapp Block is directly associated with the Edwardian-era development of downtown New Westminster, marking a formative period in B.C.'s resource-based economy.",
+				"catname" : "Heritage",
+				"X" : "-122.90914371465446",
+				"Y" : "49.20208068902789"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91881215093737, 49.205128300735595 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Turnbull House",
+				"Address" : "221 Nineth Street",
+				"Descriptn" : "The Turnbull House is a one-storey, late Victorian-era wood-frame cottage with a hipped roof. A later front-gabled, partial-width entry porch features tapered columns and half-timbering in the gable peak. It is located on Ninth Street in the Brow of the Hill neighbourhood in New Westminster.  Built circa 1888-1889, the Turnbull House is valued for its association with the earliest, Victorian-era development of historic Brow of the Hill. The neighbourhood began to develop in the late 1880s with the construction of modest homes, many of them built on a speculative or rental basis, attracting workers from the downtown area. The Turnbull House was one of the first residences built on Ninth Street. Following the war, a shortage of housing led to many of the neighbourhood’s houses being converted into apartments. The 1920s addition of a prominent front porch demonstrates the house’s evolution over time.  The house is additionally significant for its associations with Scottish-born Thomas Turnbull (1860-1939). Thomas was an accomplished carpenter and building contractor who built many fine homes and commercial buildings in the New Westminster area. After moving to New Westminster, he embarked upon an impressive contracting career, which included the construction of numerous buildings throughout New Westminster and the Fraser Valley. This house was apparently built as a rental property, as Turnbull retained ownership. Its square plan is a simplified version of the house that Turnbull built nearby for his own family.",
+				"id" : "229",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 3V6",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/221%20Ninth%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built circa 1888-1889, the Turnbull House is valued for its association with the earliest, Victorian-era development of historic Brow of the Hill.",
+				"catname" : "Heritage",
+				"X" : "-122.91881215093737",
+				"Y" : "49.205128300735595"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91523395924631, 49.2129156518596 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "W.H. Falding Residence",
+				"Address" : "431 Fourth Street",
+				"Descriptn" : "The W.H. Falding Residence is a one-and-one-half storey Queen Anne Revival-style cottage with elaborate wooden detailing, including an asymmetrical front-gabled, projecting semi-octagonal bay and distinctive patterned wood siding. The house is located the east side of Fourth Street in the historic Queen’s Park neighbourhood in New Westminster. The W.H. Falding Residence is significant for its association with the late Victorian-era development of the historic Queen’s Park neighbourhood, the most affluent and desirable residential area of New Westminster. The historic character of Queen’s Park is based on its consistent streetscapes of fine restored homes, augmented by mature landscaping. Built in 1891, the W.H. Falding Residence is also valued as an excellent representation of the Queen Anne Revival style of the late Victorian era. Despite its small scale, this cottage is elaborated through the use of carpenter ornamentation that demonstrated the introduction of new technology at a time when steam-driven band saws, drills and lathes had become readily available. Typical of the Queen Anne style is the complex, irregular form, as expressed through its picturesque roofline and projecting front bay that balances the partial-width front verandah. The first owner was W.H. Falding (1858-1931), Registrar of the Supreme Court of BC, who owned the house until 1907. In the mid 1980s, the house was restored through a grant from the BC Heritage Trust and with help from the New Westminster Heritage Preservation Society. It was designated as a municipal heritage site in 1985.",
+				"id" : "230",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1R6",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/431%20Fourth%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The W.H. Falding Residence is significant for its association with the late Victorian-era development of the historic Queen's Park neighbourhood, the most affluent and desirable residential area of New Westminster.",
+				"catname" : "Heritage",
+				"X" : "-122.91523395924631",
+				"Y" : "49.2129156518596"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91132980190379, 49.21601159555538 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Wintemute House",
+				"Address" : "111 Fifth Avenue",
+				"Descriptn" : "The Wintemute House is a one and one-half storey Craftsman bungalow, identifiable by its full-width open verandah with grouped square columns, and side gabled roof with central front shed dormer. It is located on the quiet residential street of Fifth Avenue, near Queen's Park. Built in 1912, the Wintemute House is valued as a good example of a Craftsman bungalow, a popular residential style in the early twentieth century. Designed by Vancouver-based architect, William P. White, and constructed by local builder, Burton Smith, the style exhibits an almost complete rejection of classically inspired design details and instead features a rich textural contrast of siding and shingles and plain detailing. The character of the house is enhanced by a surviving Monkey Puzzle tree that was planted circa 1912 as one of a pair flanking the front of the house.  The Wintemute House is associated with Errol Irving Wintemute (1886-1937) and his wife, Martha Jane Wintemute (1886-1972), who lived in this house between 1912 and 1943. Irving Wintemute, who was born in New Westminster, was a mining recorder for the provincial government, with responsibilities including the orderly staking of claims and dispute resolution. Nicknamed \"Punk\", Wintemute became famous in the Royal City when he played for the New Westminster Salmonbellies Lacrosse Club, which won the 1908 Minto Cup championship. The house is also associated with Dennis and Yvonne Cocke, who were responsible for having the house designated as a Municipal Heritage Site in 1985.",
+				"id" : "232",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2M1",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/111%20Fifth%20Ave.pdf",
+				"social_networks" : "-1",
+				"summary" : "Built in 1912, the Wintemute House is valued as a good example of a Craftsman bungalow, a popular residential style in the early twentieth century.",
+				"catname" : "Heritage",
+				"X" : "-122.91132980190379",
+				"Y" : "49.21601159555538"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89428340855834, 49.21828205320186 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "The Gatehouse",
+				"Address" : "319 Governors Court",
+				"Descriptn" : "",
+				"id" : "233",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 5S6",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.89428340855834",
+				"Y" : "49.21828205320186"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89712280870206, 49.21793155228073 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "The Old Gaol",
+				"Address" : "65 Richmond Street",
+				"Descriptn" : "",
+				"id" : "234",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 5P5",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.89712280870206",
+				"Y" : "49.21793155228073"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90219289700653, 49.20923526814275 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "101 Agnes Street",
+				"Address" : "101 Agnes Street",
+				"Descriptn" : "",
+				"id" : "239",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1E4",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.90219289700653",
+				"Y" : "49.20923526814275"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90240636309737, 49.209118509919826 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "107 Agnes Street",
+				"Address" : "107 Agnes Street",
+				"Descriptn" : "",
+				"id" : "240",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1E4",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.90240636309737",
+				"Y" : "49.209118509919826"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90240636309737, 49.209118509919826 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "109 Agnes Street",
+				"Address" : "109 Agnes Street",
+				"Descriptn" : "",
+				"id" : "241",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1E4",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.90240636309737",
+				"Y" : "49.209118509919826"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93720813708337, 49.18604272109797 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "702 Salter Street",
+				"Address" : "702 Salter Street",
+				"Descriptn" : "",
+				"id" : "242",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 5K8",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.93720813708337",
+				"Y" : "49.18604272109797"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89590006006408, 49.23017076745093 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "446 Buchanan Avenue",
+				"Address" : "446 Buchanan Avenue",
+				"Descriptn" : "",
+				"id" : "244",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 3Z8",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.89590006006408",
+				"Y" : "49.23017076745093"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91938428662898, 49.21077324727419 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "437 7th Street",
+				"Address" : "437 Seventh Street",
+				"Descriptn" : "",
+				"id" : "245",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 3L3",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.91938428662898",
+				"Y" : "49.21077324727419"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92069334902952, 49.20661832907844 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "317 9th Street",
+				"Address" : "317 Nineth Street",
+				"Descriptn" : "",
+				"id" : "246",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 3V6",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.92069334902952",
+				"Y" : "49.20661832907844"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91710590311368, 49.202473475706206 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "841 Royal Avenue",
+				"Address" : "841 Royal Avenue",
+				"Descriptn" : "",
+				"id" : "247",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1K3",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.91710590311368",
+				"Y" : "49.202473475706206"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91239249141049, 49.21345774640792 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "218 St. Patrick Street",
+				"Address" : "218 St. Patrick Street",
+				"Descriptn" : "",
+				"id" : "248",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1P8",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.91239249141049",
+				"Y" : "49.21345774640792"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91889931408785, 49.21780496965381 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "235 Durham Street",
+				"Address" : "235 Durham Street",
+				"Descriptn" : "",
+				"id" : "249",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2W4",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.91889931408785",
+				"Y" : "49.21780496965381"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91433890079628, 49.21291499155855 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "421 Oak Street",
+				"Address" : "421 Oak Street",
+				"Descriptn" : "",
+				"id" : "250",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1R6",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.91433890079628",
+				"Y" : "49.21291499155855"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92097000711429, 49.20827365258731 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "406 8th Street",
+				"Address" : "406 Eighth Street",
+				"Descriptn" : "",
+				"id" : "251",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2W5",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.92097000711429",
+				"Y" : "49.20827365258731"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92110134136816, 49.2083771882238 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "408 8th Street",
+				"Address" : "408 Eighth Street",
+				"Descriptn" : "",
+				"id" : "252",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2W5",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.92110134136816",
+				"Y" : "49.2083771882238"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92128991564962, 49.20810071166138 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "809 4th Avenue",
+				"Address" : "809 Fourth Avenue",
+				"Descriptn" : "",
+				"id" : "253",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2W7",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.92128991564962",
+				"Y" : "49.20810071166138"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92172969992284, 49.204554615617745 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "1012 3rd Avenue",
+				"Address" : "1012 Third Avenue",
+				"Descriptn" : "",
+				"id" : "254",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1P6",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Heritage",
+				"X" : "-122.92172969992284",
+				"Y" : "49.204554615617745"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90369312785695, 49.20644124148513 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Holy Trinity Romanian Orthodox Parish",
+				"Address" : "220 Carnarvon Street",
+				"Descriptn" : "In the past 10 years, Holy Trinity Church has been intensively renovated and adorned with 400 square meters of fresco painted by Maestro Petru Botezatu, a renowned Canadian painter of Romanian origins. The impressive wooden wall structure in front of the altar, the iconostas has been carved by hand in solid oak by Mihis Viorel in Transylvania, Romania and it features oil painted icons. The church building was originally built by the Norwegian Lutheran community in 1920s. Since then it was owned and used successively by the Catholic Archdiocese of Vancouver (1950 to 2003) and now by the Romanian Eastern Orthodox community of New Westminster (since 2003). The church can be visited each Saturday evening from 7PM or Sundays from 10AM to 2PM.",
+				"id" : "286",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1B8",
+				"fax" : "",
+				"website" : "https://www.sfanta-treime.org",
+				"social_networks" : "-1",
+				"summary" : "Holy Trinity Romanian Orthodox Church, formerly known as Nidaros blends cultural and spiritual elements of the three communities that have succeeded during the past nine decades: Lutheran, Catholic and now Eastern Orthodox. During 2010 and 2011 it has been adorned inside with a beautiful fresco in byzantine style.",
+				"catname" : "Heritage",
+				"X" : "-122.90369312785695",
+				"Y" : "49.20644124148513"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90369312785695, 49.20644124148513 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Holy Trinity Romanian Orthodox Parish",
+				"Address" : "220 Carnarvon Street",
+				"Descriptn" : "Holy Trinity Romanian Orthodox Church has accumulated in the last century and it blends in its architecture and interior art the cultural and spiritual elements of three important Christian denominations Lutheran, Catholic and Eastern Orthodox. These elements are the marks of the communities that have used the church building since its inception. The church features Gothic arches combined with Roman and Byzantine architectural elements.The interior has a 400 square meters of fresco painted in Byzantine style by Maestro Petru Botezatu. The iconostas, a wooden wall structure erected in front of the altar 9 meters wide by four meters high, has been carved in oak by a craftsman Viorel Mihis in Transylvania, Romania. The church is open for visitors each Saturday from 7pm and Sundays from 10AM to 2PM.",
+				"id" : "301",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L1B8",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Holy Trinity Romanian Orthodox Church has accumulated in the last century and it blends in its architecture and interior art the cultural and spiritual elements of three important Christian denominations Lutheran, Catholic and Eastern Orthodox.",
+				"catname" : "Heritage",
+				"X" : "-122.90369312785695",
+				"Y" : "49.20644124148513"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89792638210132, 49.221975640873204 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Fraser Cemetary",
+				"Address" : "100 Richmond Street",
+				"Descriptn" : "The Fraser Cemetery overlooks the Fraser River and has served as a final resting place for locals since 1870.",
+				"id" : "366",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 4B3",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The Fraser Cemetery overlooks the Fraser River and has served as a final resting place for locals since 1870.",
+				"catname" : "Heritage",
+				"X" : "-122.89792638210132",
+				"Y" : "49.221975640873204"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95593954787977, 49.19957584204417 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Schara Tzedeck Cemetary",
+				"Address" : "2345 Marine Drive",
+				"Descriptn" : "The congregation was renamed \"Schara Tzedeck\", upon being legally incorporated on June 14th 1917. In 1921 a new synagogue opened at Heatley and Pender and it was used until the end of 1947. This building had a capacity of 600. On September 13th 1945, the site of our present Synagogue was purchased, building was started in 1947 and completed by the end of September of that year. The Synagogue was officially opened on January 25th 1948. At that time it was the most modern and largest Synagogue west of Montreal. The Synagogue was designed to be a house of prayer (Bait Tefila), House of Learning (Beit Midrash), and House of Meeting (Beit Knesset). The oak Aron Kodesh which we presently see on entering the main sanctuary was built originally in about 1921 for the Synagogue at Heatley and Pender. The Congregation acquired property on October 2nd 1957, which was immediately to the north of the Synagogue.  The purpose was to accommodate offices, Classrooms, a large Auditorium, and other facilitites. Construction began in the early part of 1963 and it was completed for the High Holidays of the same year.",
+				"id" : "368",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 6R8",
+				"fax" : "",
+				"website" : "http://www.scharatzedeck.com",
+				"social_networks" : "-1",
+				"summary" : "The Schara Tzedeck Synagogue is the oldest and largest Orthodox Synagogue in Vancouver. It has been in existence since 1907, when it was known by the name of Benei Yehuda. The first services were held in a small rented home, at 14 West Cordova st. in 1910 the 'sons of Israel' purchased property at Pender street and Heatley ave., and by 1911 a Synagogue was built large enough to hold 200 worshipers.",
+				"catname" : "Heritage",
+				"X" : "-122.95593954787977",
+				"Y" : "49.19957584204417"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91035143364618, 49.22420313541293 ]
+			},
+			"properties" : {
+				"email" : "anvilbattery@senseofhistory.com",
+				"phone" : "",
+				"Name" : "Ancient and Honourable Hyack Anvil Battery",
+				"Address" : "",
+				"Descriptn" : "Communities have always found ways to welcome visitors and to mark special days. In early British Columbia, such occasions were often marked by firing cannons, ringing bells, and three hearty cheers. But another form of recognition was used in BC and other places as well the firing of anvils! The firing of anvils as a form of salute has a long history. In BC they frequently welcomed the arrival of a new stern wheel steamboat. Here and in other places they marked special days and festivities. The process involves placing a little gunpowder between two anvils and igniting it. In the resulting explosion, the top anvil flies upward, a lot of smoke surrounds the park, and the noise is similar to cannon fire. In the late 1800s, a group of men in New Westminster fired an anvil salute to the sovereign when other more recognized means were not available. That annual salute, continued from that time until today, is now carried out by the renowned Ancient and Honourable Hyack Anvil Battery, to mark Victoria Day in honour of the reigning monarch and the memory of Queen Victoria. The salute has also been fired on special occasions such as a visit by Royalty, and the shots are always carried out in a formal, dignified manner as befits a proper salute. Don't miss this proud group in scarlet uniforms reminiscent of an early fire brigade, as they proudly continue an important part of the local cultural heritage and history.",
+				"id" : "377",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The Ancient and Honourable Hyack Anvil Battery traces its roots to the 1880s and the community's desire to salute and honour the reigning monarch. Watch for regal and vice regal salutes during the year with the highlight being the traditional 21 gun salute on Victoria Day.",
+				"catname" : "Heritage",
+				"X" : "-122.91035143364618",
+				"Y" : "49.22420313541293"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89545660015165, 49.214595186689586 ]
+			},
+			"properties" : {
+				"email" : "nwhistsoc@senseofhistory.com",
+				"phone" : "604-526-6113",
+				"Name" : "New Westminster Historical Society",
+				"Address" : "",
+				"Descriptn" : "The New Westminster Historical Society, since it started in 1976, has held a wide variety of presentations and talks, mostly connected to some aspect of the history of the City of New Westminster. The majority of the presentations are illustrated, and many have items on display that augment or explain the topic. Membership in the group is open to anyone interested in history, but all meetings are free and open to the public. The group meets once a month on the 3rd Wednesday, starting at 7:30 pm in the New Westminster Public Library auditorium in uptown New Westminster, and there is no need to pre-register. A monthly newsletter includes programming information as well as stories, photos, and other related materials and information. Membership, which includes the newsletter plus four additional special issues each year, is $10 and the newsletters can be received by email or regular post. For anyone, young or old, who enjoys hearing about local history in a comfortable, welcoming setting, with topics connected to a myriad of community items, the New Westminster Historical Society is definitely a group to look into.",
+				"id" : "380",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The New Westminster Historical Society began in the spring of 1976 and has met monthly primarily at the New Westminster Public Library auditorium ever since. The meetings at the Library do not have a business component just a presentation that usually centers on the history and heritage of New Westminster.",
+				"catname" : "Heritage",
+				"X" : "-122.89545660015165",
+				"Y" : "49.214595186689586"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89939505966757, 49.216283323912634 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "BC Penitentiary Cemetary",
+				"Address" : "",
+				"Descriptn" : "The New Westminster Penitentiary Cemetery houses the remains of BC prisoners that died between 1914 and 1963.",
+				"id" : "364",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The New Westminster Penitentiary Cemetery houses the remains of BC prisoners that died between 1914 and 1963.",
+				"catname" : "Heritage",
+				"X" : "-122.89939505966757",
+				"Y" : "49.216283323912634"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90912579156006, 49.20241728630228 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Holbrook Block",
+				"Address" : "660 Columbia Street",
+				"Descriptn" : "The Holbrook Block is a three-storey masonry hotel, with arched window hoods and a projecting cornice. The upper floors retain their late Victorian-era appearance, while the ground level storefront has been restored to its 1940 Streamline Moderne appearance. It is located on the south side of Columbia Street, the main commercial street in New Westminster's historic downtown core. HERITAGE VALUE: The Holbrook Block is valued for its continued use as a saloon and hotel since 1899. Additionally, the Holbrook Block is significant for its contribution to the consistent and distinctive built form of Columbia Street, which dates from 1898 to 1913, when New Westminster was the major centre of commerce and industry for the booming Fraser Valley area. In the 1880s, Henry Holbrook constructed a brick and stone block facing Columbia Street and the wooden Holbrook Hotel facing Front Street. Both structures were destroyed by the Great Fire in 1898. The following year the Holbrook Estate, managed by local businessman and then Mayor Thomas Ovens, financed this $20,000 brick replacement, dubbed the Holbrook House. The Holbrook Block is also significant for its late Victorian-era architecture, and displays modest Victorian Italianate styling on the upper floors, reflected in its segmented arch window hoods, connected by a continuous horizontal band. The storefront was renovated in 1939-1940, and its Streamline Moderne appearance was recently restored including replica neon signage. The Holbrook Block is valued for its architectural associations. George William Grant (1852-1925), the original architect, designed many of the buildings in downtown New Westminster before and after the Great Fire. Gardiner and Mercer, one of the more enduring and prolific architectural partnerships in the province, were responsible for the 1913 renovation that added a third storey to the structure. Architects Watson and Blackadder designed the storefront renovation in 1939-1940.",
+				"id" : "177",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1A8",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/660%20Columbia%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The Holbrook Block is valued for its continued use as a saloon and hotel since 1899. Additionally, the Holbrook Block is significant for its contribution to the consistent and distinctive built form of Columbia Street, which dates from 1898 to 1913.",
+				"catname" : "Heritage",
+				"X" : "-122.90912579156006",
+				"Y" : "49.20241728630228"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90985672861588, 49.20352684015892 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Land Registry Office",
+				"Address" : "648 Carnarvon Street",
+				"Descriptn" : "The Land Registry Office is a one-storey plus lower level brick building with a distinctive hipped roof, situated at the crest of a steep hill, adjacent to the New Westminster Court House near New Westminster's historic downtown core. Heritage Value: The Land Registry Office is a significant legacy of New Westminster's role as an administrative centre. The distribution of Crown Land as well as the registration of land transactions was a key function of the colonial government. New Westminster, as the capital of the Mainland Colony, and later as the first capital of the province of British Columbia, was the location of the original Land Registry in 1860. The Land Registry was housed in various offices until the construction of this substantial building during the western boom years, an indication of the volume of land sales at the time. The building remained as the local Land Registry in New Westminster until 1980. Furthermore, the Land Registry Office is significant for its contribution to the consistent and distinctive built form of downtown New Westminster, which dates from 1898 and 1913, when the city was the major centre of commercial and industrial output for the booming Fraser Valley area. Built in 1910-11, the building is significant for its association with architect Edwin George William Sait (1867-1949), who had a notable architectural practice in New Westminster in the aftermath of the Great Fire of 1898. Sait drew the original designs in 1909; construction on the project was felt to be too slow, and Frank G. Gardiner (1878-1966) replaced him as supervising architect.",
+				"id" : "205",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1E3",
+				"fax" : "",
+				"website" : "http://www.newwestcity.ca/database/rte/files/648%20Carnarvon%20St.pdf",
+				"social_networks" : "-1",
+				"summary" : "The Land Registry Office is a significant legacy of New Westminster's role as an administrative centre. The distribution of Crown Land as well as the registration of land transactions was a key function of the colonial government.",
+				"catname" : "Heritage",
+				"X" : "-122.90985672861588",
+				"Y" : "49.20352684015892"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9014263988313, 49.21634236888235 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Woodlands Memorial Garden",
+				"Address" : "",
+				"Descriptn" : "The Woodlands Memorial Garden celebrates former residents of the Woodlands Institution, which closed in 1996. The garden includes a reflective pond, plaques naming former residents, and a sculpture called the \"Window Too High.\"",
+				"id" : "312",
+				"category" : 3,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://www.inclusionbc.org/our-priority-areas/disability-supports/institutions/woodlands-memorial-garden",
+				"social_networks" : "-1",
+				"summary" : "The Woodlands Memorial Garden celebrates former residents of the Woodlands Institution, which closed in 1996.",
+				"catname" : "Heritage",
+				"X" : "-122.9014263988313",
+				"Y" : "49.21634236888235"
+			}
+		}
+	]
+}
